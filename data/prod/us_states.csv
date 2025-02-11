@@ -1,0 +1,577 @@
+us_state,month,humidity,region
+Alabama,0,10.919663,Southeast
+Alabama,1,9.117307,Southeast
+Alabama,2,14.081112,Southeast
+Alabama,3,11.966417,Southeast
+Alabama,4,15.306306,Southeast
+Alabama,5,21.733467,Southeast
+Alabama,6,25.904972,Southeast
+Alabama,7,25.572218,Southeast
+Alabama,8,26.015793,Southeast
+Alabama,9,19.268583,Southeast
+Alabama,10,13.091345,Southeast
+Alabama,11,11.429271,Southeast
+Arizona,0,4.0184436,Southwest
+Arizona,1,4.882909,Southwest
+Arizona,2,5.099123,Southwest
+Arizona,3,4.908255,Southwest
+Arizona,4,5.6192327,Southwest
+Arizona,5,5.957063,Southwest
+Arizona,6,10.457182,Southwest
+Arizona,7,17.294538,Southwest
+Arizona,8,15.353196,Southwest
+Arizona,9,8.587971,Southwest
+Arizona,10,6.3977323,Southwest
+Arizona,11,4.9800463,Southwest
+Arkansas,0,6.1610174,Southeast
+Arkansas,1,8.949419,Southeast
+Arkansas,2,9.780535,Southeast
+Arkansas,3,10.873918,Southeast
+Arkansas,4,13.885189,Southeast
+Arkansas,5,20.102938,Southeast
+Arkansas,6,24.293371,Southeast
+Arkansas,7,23.64303,Southeast
+Arkansas,8,24.283281,Southeast
+Arkansas,9,17.47578,Southeast
+Arkansas,10,10.209916,Southeast
+Arkansas,11,9.112493,Southeast
+California,0,4.383599,West
+California,1,5.8715744,West
+California,2,6.2401185,West
+California,3,6.7707953,West
+California,4,7.1889224,West
+California,5,9.38012,West
+California,6,11.783414,West
+California,7,12.5078945,West
+California,8,11.545685,West
+California,9,8.701838,West
+California,10,7.764273,West
+California,11,6.557384,West
+Colorado,0,1.7930298,West
+Colorado,1,2.5852578,West
+Colorado,2,2.629979,West
+Colorado,3,3.5765107,West
+Colorado,4,5.133206,West
+Colorado,5,7.6750774,West
+Colorado,6,10.148675,West
+Colorado,7,12.110637,West
+Colorado,8,10.332012,West
+Colorado,9,7.5224376,West
+Colorado,10,4.1898723,West
+Colorado,11,2.5489893,West
+Connecticut,0,4.752014,Northeast
+Connecticut,1,4.1391473,Northeast
+Connecticut,2,4.9230747,Northeast
+Connecticut,3,6.736505,Northeast
+Connecticut,4,9.367739,Northeast
+Connecticut,5,14.140678,Northeast
+Connecticut,6,21.514832,Northeast
+Connecticut,7,20.326036,Northeast
+Connecticut,8,18.691889,Northeast
+Connecticut,9,12.629901,Northeast
+Connecticut,10,8.873818,Northeast
+Connecticut,11,7.367504,Northeast
+Delaware,0,5.786376,Northeast
+Delaware,1,5.2605596,Northeast
+Delaware,2,7.345538,Northeast
+Delaware,3,8.191057,Northeast
+Delaware,4,13.095151,Northeast
+Delaware,5,19.056934,Northeast
+Delaware,6,24.751064,Northeast
+Delaware,7,24.881886,Northeast
+Delaware,8,23.364626,Northeast
+Delaware,9,15.410024,Northeast
+Delaware,10,10.682494,Northeast
+Delaware,11,8.2749815,Northeast
+Florida,0,16.15066,Southeast
+Florida,1,13.2879505,Southeast
+Florida,2,16.598982,Southeast
+Florida,3,17.653074,Southeast
+Florida,4,20.67079,Southeast
+Florida,5,26.233746,Southeast
+Florida,6,29.017132,Southeast
+Florida,7,28.868153,Southeast
+Florida,8,29.257082,Southeast
+Florida,9,24.94502,Southeast
+Florida,10,17.775763,Southeast
+Florida,11,16.086664,Southeast
+Georgia,0,10.448008,Southeast
+Georgia,1,7.9774446,Southeast
+Georgia,2,13.43642,Southeast
+Georgia,3,12.223386,Southeast
+Georgia,4,16.364273,Southeast
+Georgia,5,21.922691,Southeast
+Georgia,6,26.009407,Southeast
+Georgia,7,26.027092,Southeast
+Georgia,8,26.659231,Southeast
+Georgia,9,19.000763,Southeast
+Georgia,10,12.599237,Southeast
+Georgia,11,11.450618,Southeast
+Idaho,0,2.2580886,West
+Idaho,1,3.237734,West
+Idaho,2,3.213434,West
+Idaho,3,4.2115583,West
+Idaho,4,5.0424824,West
+Idaho,5,7.8485656,West
+Idaho,6,9.251451,West
+Idaho,7,9.3921995,West
+Idaho,8,7.9251957,West
+Idaho,9,6.6182084,West
+Idaho,10,5.5592837,West
+Idaho,11,3.6719406,West
+Illinois,0,3.7420452,Midwest
+Illinois,1,4.791719,Midwest
+Illinois,2,5.8932996,Midwest
+Illinois,3,6.012528,Midwest
+Illinois,4,10.595176,Midwest
+Illinois,5,16.253736,Midwest
+Illinois,6,22.420963,Midwest
+Illinois,7,19.53522,Midwest
+Illinois,8,20.853827,Midwest
+Illinois,9,13.916745,Midwest
+Illinois,10,7.0576725,Midwest
+Illinois,11,6.020861,Midwest
+Indiana,0,4.453901,Midwest
+Indiana,1,5.1647625,Midwest
+Indiana,2,6.276867,Midwest
+Indiana,3,6.376429,Midwest
+Indiana,4,10.868414,Midwest
+Indiana,5,15.818291,Midwest
+Indiana,6,22.621775,Midwest
+Indiana,7,19.607853,Midwest
+Indiana,8,20.738607,Midwest
+Indiana,9,13.009125,Midwest
+Indiana,10,7.7986994,Midwest
+Indiana,11,6.6241336,Midwest
+Iowa,0,2.257941,Midwest
+Iowa,1,3.136556,Midwest
+Iowa,2,3.4536734,Midwest
+Iowa,3,5.2057033,Midwest
+Iowa,4,9.325703,Midwest
+Iowa,5,14.470559,Midwest
+Iowa,6,19.54508,Midwest
+Iowa,7,17.719559,Midwest
+Iowa,8,17.62914,Midwest
+Iowa,9,12.80427,Midwest
+Iowa,10,5.870248,Midwest
+Iowa,11,4.830751,Midwest
+Kansas,0,2.7787526,Midwest
+Kansas,1,4.03516,Midwest
+Kansas,2,3.65901,Midwest
+Kansas,3,6.7107186,Midwest
+Kansas,4,10.158318,Midwest
+Kansas,5,15.235174,Midwest
+Kansas,6,18.80438,Midwest
+Kansas,7,19.00671,Midwest
+Kansas,8,18.864565,Midwest
+Kansas,9,13.67134,Midwest
+Kansas,10,6.240099,Midwest
+Kansas,11,4.974871,Midwest
+Kentucky,0,6.0547967,Southeast
+Kentucky,1,6.1603208,Southeast
+Kentucky,2,7.9866,Southeast
+Kentucky,3,8.104221,Southeast
+Kentucky,4,12.9557495,Southeast
+Kentucky,5,17.863737,Southeast
+Kentucky,6,23.567575,Southeast
+Kentucky,7,22.04377,Southeast
+Kentucky,8,23.143171,Southeast
+Kentucky,9,14.779429,Southeast
+Kentucky,10,10.201733,Southeast
+Kentucky,11,8.71287,Southeast
+Louisiana,0,10.345373,Southeast
+Louisiana,1,12.42342,Southeast
+Louisiana,2,16.056995,Southeast
+Louisiana,3,14.200799,Southeast
+Louisiana,4,17.592583,Southeast
+Louisiana,5,24.31595,Southeast
+Louisiana,6,27.379868,Southeast
+Louisiana,7,27.13413,Southeast
+Louisiana,8,27.789536,Southeast
+Louisiana,9,21.541105,Southeast
+Louisiana,10,13.999131,Southeast
+Louisiana,11,12.470732,Southeast
+Maine,0,3.0446327,Northeast
+Maine,1,2.5055928,Northeast
+Maine,2,3.2697167,Northeast
+Maine,3,5.3998356,Northeast
+Maine,4,7.108167,Northeast
+Maine,5,11.967216,Northeast
+Maine,6,18.522606,Northeast
+Maine,7,17.387375,Northeast
+Maine,8,14.73715,Northeast
+Maine,9,10.005433,Northeast
+Maine,10,8.600043,Northeast
+Maine,11,5.315621,Northeast
+Maryland,0,5.663962,Northeast
+Maryland,1,5.0797215,Northeast
+Maryland,2,7.26264,Northeast
+Maryland,3,8.310169,Northeast
+Maryland,4,13.094653,Northeast
+Maryland,5,18.598934,Northeast
+Maryland,6,24.025185,Northeast
+Maryland,7,24.319286,Northeast
+Maryland,8,23.283876,Northeast
+Maryland,9,15.221878,Northeast
+Maryland,10,10.550769,Northeast
+Maryland,11,7.9540777,Northeast
+Massachusetts,0,4.509648,Northeast
+Massachusetts,1,3.9730694,Northeast
+Massachusetts,2,4.7012997,Northeast
+Massachusetts,3,6.7105217,Northeast
+Massachusetts,4,9.083156,Northeast
+Massachusetts,5,13.622443,Northeast
+Massachusetts,6,21.216661,Northeast
+Massachusetts,7,19.609854,Northeast
+Massachusetts,8,18.225382,Northeast
+Massachusetts,9,12.251091,Northeast
+Massachusetts,10,8.90477,Northeast
+Massachusetts,11,7.2224994,Northeast
+Michigan,0,3.0024726,Midwest
+Michigan,1,3.2370071,Midwest
+Michigan,2,3.5303643,Midwest
+Michigan,3,4.6223335,Midwest
+Michigan,4,8.446165,Midwest
+Michigan,5,12.178904,Midwest
+Michigan,6,17.830446,Midwest
+Michigan,7,17.277637,Midwest
+Michigan,8,16.835922,Midwest
+Michigan,9,11.904319,Midwest
+Michigan,10,6.949239,Midwest
+Michigan,11,4.9744887,Midwest
+Minnesota,0,1.9204923,Midwest
+Minnesota,1,2.0931754,Midwest
+Minnesota,2,2.2746673,Midwest
+Minnesota,3,4.2478175,Midwest
+Minnesota,4,7.376234,Midwest
+Minnesota,5,11.896386,Midwest
+Minnesota,6,16.993357,Midwest
+Minnesota,7,16.951733,Midwest
+Minnesota,8,15.027797,Midwest
+Minnesota,9,10.702158,Midwest
+Minnesota,10,5.279853,Midwest
+Minnesota,11,4.2281847,Midwest
+Mississippi,0,9.863886,Southeast
+Mississippi,1,10.430339,Southeast
+Mississippi,2,14.105807,Southeast
+Mississippi,3,12.204503,Southeast
+Mississippi,4,15.4973755,Southeast
+Mississippi,5,22.130962,Southeast
+Mississippi,6,26.272106,Southeast
+Mississippi,7,25.21059,Southeast
+Mississippi,8,25.795076,Southeast
+Mississippi,9,19.855177,Southeast
+Mississippi,10,12.755686,Southeast
+Mississippi,11,10.9563,Southeast
+Missouri,0,3.8692555,Midwest
+Missouri,1,5.390979,Midwest
+Missouri,2,6.1330166,Midwest
+Missouri,3,6.7107983,Midwest
+Missouri,4,11.791887,Midwest
+Missouri,5,17.546646,Midwest
+Missouri,6,22.702925,Midwest
+Missouri,7,20.939709,Midwest
+Missouri,8,21.79002,Midwest
+Missouri,9,15.127435,Midwest
+Missouri,10,7.3906655,Midwest
+Missouri,11,6.838914,Midwest
+Montana,0,2.2963164,West
+Montana,1,2.7476764,West
+Montana,2,2.3878675,West
+Montana,3,3.9438937,West
+Montana,4,5.4416156,West
+Montana,5,9.335677,West
+Montana,6,11.169713,West
+Montana,7,11.277208,West
+Montana,8,9.453073,West
+Montana,9,6.830024,West
+Montana,10,5.3117104,West
+Montana,11,3.7134283,West
+Nebraska,0,2.181367,Midwest
+Nebraska,1,2.8977032,Midwest
+Nebraska,2,2.856858,Midwest
+Nebraska,3,5.289522,Midwest
+Nebraska,4,8.361435,Midwest
+Nebraska,5,12.705815,Midwest
+Nebraska,6,15.6300955,Midwest
+Nebraska,7,17.4755,Midwest
+Nebraska,8,15.916215,Midwest
+Nebraska,9,10.877548,Midwest
+Nebraska,10,5.3626103,Midwest
+Nebraska,11,4.0175333,Midwest
+Nevada,0,2.4152646,West
+Nevada,1,3.4022675,West
+Nevada,2,3.7889671,West
+Nevada,3,4.4264574,West
+Nevada,4,4.6760364,West
+Nevada,5,5.6822963,West
+Nevada,6,7.4345155,West
+Nevada,7,9.805161,West
+Nevada,8,7.5407333,West
+Nevada,9,5.7274113,West
+Nevada,10,5.205408,West
+Nevada,11,3.955227,West
+New Hampshire,0,3.5162566,Northeast
+New Hampshire,1,3.0338042,Northeast
+New Hampshire,2,3.689699,Northeast
+New Hampshire,3,5.7246456,Northeast
+New Hampshire,4,7.813435,Northeast
+New Hampshire,5,12.667911,Northeast
+New Hampshire,6,19.720871,Northeast
+New Hampshire,7,17.834322,Northeast
+New Hampshire,8,16.3816,Northeast
+New Hampshire,9,10.632516,Northeast
+New Hampshire,10,7.8466167,Northeast
+New Hampshire,11,5.840199,Northeast
+New Jersey,0,5.151411,Northeast
+New Jersey,1,4.6250567,Northeast
+New Jersey,2,6.130685,Northeast
+New Jersey,3,7.496571,Northeast
+New Jersey,4,11.448445,Northeast
+New Jersey,5,16.954264,Northeast
+New Jersey,6,22.943792,Northeast
+New Jersey,7,22.718248,Northeast
+New Jersey,8,20.944656,Northeast
+New Jersey,9,13.687286,Northeast
+New Jersey,10,9.683586,Northeast
+New Jersey,11,7.7304473,Northeast
+New Mexico,0,3.0440977,Southwest
+New Mexico,1,3.7620158,Southwest
+New Mexico,2,3.6621578,Southwest
+New Mexico,3,4.204098,Southwest
+New Mexico,4,5.046904,Southwest
+New Mexico,5,8.92382,Southwest
+New Mexico,6,11.252813,Southwest
+New Mexico,7,14.683751,Southwest
+New Mexico,8,11.896469,Southwest
+New Mexico,9,9.720954,Southwest
+New Mexico,10,5.279466,Southwest
+New Mexico,11,3.5798192,Southwest
+New York,0,3.8969786,Northeast
+New York,1,3.922692,Northeast
+New York,2,4.5291166,Northeast
+New York,3,5.757171,Northeast
+New York,4,9.377915,Northeast
+New York,5,13.173107,Northeast
+New York,6,19.59199,Northeast
+New York,7,18.561682,Northeast
+New York,8,17.34989,Northeast
+New York,9,11.82898,Northeast
+New York,10,7.9592605,Northeast
+New York,11,6.0049596,Northeast
+North Carolina,0,7.519513,Southeast
+North Carolina,1,6.1130023,Southeast
+North Carolina,2,10.166126,Southeast
+North Carolina,3,9.9107895,Southeast
+North Carolina,4,14.716071,Southeast
+North Carolina,5,19.547676,Southeast
+North Carolina,6,24.84231,Southeast
+North Carolina,7,24.531153,Southeast
+North Carolina,8,25.121597,Southeast
+North Carolina,9,16.785246,Southeast
+North Carolina,10,11.421074,Southeast
+North Carolina,11,9.230139,Southeast
+North Dakota,0,2.1236022,Midwest
+North Dakota,1,2.133611,Midwest
+North Dakota,2,2.0052142,Midwest
+North Dakota,3,4.2159343,Midwest
+North Dakota,4,6.4698715,Midwest
+North Dakota,5,11.126149,Midwest
+North Dakota,6,14.61327,Midwest
+North Dakota,7,15.616798,Midwest
+North Dakota,8,13.311313,Midwest
+North Dakota,9,9.043571,Midwest
+North Dakota,10,5.155612,Midwest
+North Dakota,11,3.9169788,Midwest
+Ohio,0,4.203544,Midwest
+Ohio,1,5.1573706,Midwest
+Ohio,2,5.882368,Midwest
+Ohio,3,6.198432,Midwest
+Ohio,4,12.238463,Midwest
+Ohio,5,15.594165,Midwest
+Ohio,6,21.521252,Midwest
+Ohio,7,19.987637,Midwest
+Ohio,8,20.463863,Midwest
+Ohio,9,12.995701,Midwest
+Ohio,10,8.726964,Midwest
+Ohio,11,7.013521,Midwest
+Oklahoma,0,4.145017,Southwest
+Oklahoma,1,6.1976337,Southwest
+Oklahoma,2,6.1148906,Southwest
+Oklahoma,3,9.342853,Southwest
+Oklahoma,4,12.616755,Southwest
+Oklahoma,5,18.154049,Southwest
+Oklahoma,6,21.997753,Southwest
+Oklahoma,7,21.305977,Southwest
+Oklahoma,8,21.431469,Southwest
+Oklahoma,9,16.435303,Southwest
+Oklahoma,10,8.386633,Southwest
+Oklahoma,11,6.4354887,Southwest
+Oregon,0,3.784135,West
+Oregon,1,5.0481153,West
+Oregon,2,4.845421,West
+Oregon,3,5.703278,West
+Oregon,4,6.041721,West
+Oregon,5,9.323032,West
+Oregon,6,10.856275,West
+Oregon,7,10.372593,West
+Oregon,8,9.480247,West
+Oregon,9,7.8213944,West
+Oregon,10,7.4154863,West
+Oregon,11,5.281131,West
+Pennsylvania,0,4.162228,Northeast
+Pennsylvania,1,4.430618,Northeast
+Pennsylvania,2,5.604168,Northeast
+Pennsylvania,3,6.7919364,Northeast
+Pennsylvania,4,10.973307,Northeast
+Pennsylvania,5,15.101145,Northeast
+Pennsylvania,6,20.576328,Northeast
+Pennsylvania,7,19.67881,Northeast
+Pennsylvania,8,18.987915,Northeast
+Pennsylvania,9,12.606215,Northeast
+Pennsylvania,10,8.656797,Northeast
+Pennsylvania,11,6.4752536,Northeast
+Rhode Island,0,4.930142,Northeast
+Rhode Island,1,4.4912543,Northeast
+Rhode Island,2,5.0573053,Northeast
+Rhode Island,3,7.1380715,Northeast
+Rhode Island,4,9.608755,Northeast
+Rhode Island,5,14.0859,Northeast
+Rhode Island,6,21.63098,Northeast
+Rhode Island,7,21.284914,Northeast
+Rhode Island,8,19.022703,Northeast
+Rhode Island,9,13.12265,Northeast
+Rhode Island,10,9.629356,Northeast
+Rhode Island,11,8.192342,Northeast
+South Carolina,0,9.663753,Southeast
+South Carolina,1,7.4733005,Southeast
+South Carolina,2,12.258261,Southeast
+South Carolina,3,11.7337475,Southeast
+South Carolina,4,16.07035,Southeast
+South Carolina,5,21.096699,Southeast
+South Carolina,6,26.665041,Southeast
+South Carolina,7,26.110416,Southeast
+South Carolina,8,27.056482,Southeast
+South Carolina,9,18.79077,Southeast
+South Carolina,10,12.705987,Southeast
+South Carolina,11,10.831638,Southeast
+South Dakota,0,1.9938174,Midwest
+South Dakota,1,2.406173,Midwest
+South Dakota,2,2.5211196,Midwest
+South Dakota,3,4.455129,Midwest
+South Dakota,4,7.433115,Midwest
+South Dakota,5,12.140304,Midwest
+South Dakota,6,15.466874,Midwest
+South Dakota,7,17.488836,Midwest
+South Dakota,8,14.393764,Midwest
+South Dakota,9,10.053979,Midwest
+South Dakota,10,5.329792,Midwest
+South Dakota,11,4.0246763,Midwest
+Tennessee,0,7.59955,Southeast
+Tennessee,1,7.1828375,Southeast
+Tennessee,2,9.531712,Southeast
+Tennessee,3,9.171682,Southeast
+Tennessee,4,13.200412,Southeast
+Tennessee,5,19.053242,Southeast
+Tennessee,6,23.77878,Southeast
+Tennessee,7,23.060684,Southeast
+Tennessee,8,23.492224,Southeast
+Tennessee,9,16.170631,Southeast
+Tennessee,10,10.714568,Southeast
+Tennessee,11,9.110496,Southeast
+Texas,0,6.101951,Southwest
+Texas,1,9.218383,Southwest
+Texas,2,9.413103,Southwest
+Texas,3,11.506478,Southwest
+Texas,4,14.44412,Southwest
+Texas,5,20.351212,Southwest
+Texas,6,22.349045,Southwest
+Texas,7,21.730185,Southwest
+Texas,8,22.498497,Southwest
+Texas,9,18.355675,Southwest
+Texas,10,10.891466,Southwest
+Texas,11,8.788725,Southwest
+Utah,0,2.0436559,West
+Utah,1,2.927536,West
+Utah,2,3.4270036,West
+Utah,3,4.3544908,West
+Utah,4,5.012981,West
+Utah,5,6.147543,West
+Utah,6,8.224457,West
+Utah,7,11.375859,West
+Utah,8,9.622268,West
+Utah,9,6.883014,West
+Utah,10,4.9435024,West
+Utah,11,3.397879,West
+Vermont,0,3.6152976,Northeast
+Vermont,1,3.133931,Northeast
+Vermont,2,3.6191437,Northeast
+Vermont,3,5.500291,Northeast
+Vermont,4,8.027657,Northeast
+Vermont,5,12.628525,Northeast
+Vermont,6,19.440865,Northeast
+Vermont,7,17.42479,Northeast
+Vermont,8,15.892968,Northeast
+Vermont,9,10.524742,Northeast
+Vermont,10,7.4358244,Northeast
+Vermont,11,5.782929,Northeast
+Virginia,0,6.007767,Southeast
+Virginia,1,4.8600683,Southeast
+Virginia,2,7.9277835,Southeast
+Virginia,3,8.436815,Southeast
+Virginia,4,13.437857,Southeast
+Virginia,5,17.774591,Southeast
+Virginia,6,23.153063,Southeast
+Virginia,7,22.752377,Southeast
+Virginia,8,22.780527,Southeast
+Virginia,9,14.849066,Southeast
+Virginia,10,10.210252,Southeast
+Virginia,11,7.636559,Southeast
+Washington,0,4.1230054,West
+Washington,1,5.329339,West
+Washington,2,4.9085126,West
+Washington,3,5.9052925,West
+Washington,4,6.4877443,West
+Washington,5,9.954875,West
+Washington,6,11.817801,West
+Washington,7,11.760545,West
+Washington,8,10.68576,West
+Washington,9,8.586078,West
+Washington,10,7.5107102,West
+Washington,11,5.668536,West
+West Virginia,0,5.0317025,Southeast
+West Virginia,1,5.1001863,Southeast
+West Virginia,2,6.8767605,Southeast
+West Virginia,3,7.435308,Southeast
+West Virginia,4,12.448092,Southeast
+West Virginia,5,15.9779,Southeast
+West Virginia,6,21.019335,Southeast
+West Virginia,7,20.312717,Southeast
+West Virginia,8,20.86038,Southeast
+West Virginia,9,13.420838,Southeast
+West Virginia,10,9.7126255,Southeast
+West Virginia,11,7.655644,Southeast
+Wisconsin,0,2.1300411,Midwest
+Wisconsin,1,2.6081023,Midwest
+Wisconsin,2,2.9093385,Midwest
+Wisconsin,3,4.182188,Midwest
+Wisconsin,4,7.9925733,Midwest
+Wisconsin,5,13.135282,Midwest
+Wisconsin,6,17.743774,Midwest
+Wisconsin,7,16.599869,Midwest
+Wisconsin,8,16.35364,Midwest
+Wisconsin,9,11.655945,Midwest
+Wisconsin,10,5.74124,Midwest
+Wisconsin,11,4.697153,Midwest
+Wyoming,0,1.6147248,West
+Wyoming,1,2.347632,West
+Wyoming,2,2.1519794,West
+Wyoming,3,3.7178955,West
+Wyoming,4,5.028971,West
+Wyoming,5,7.856738,West
+Wyoming,6,9.496302,West
+Wyoming,7,9.794076,West
+Wyoming,8,8.595889,West
+Wyoming,9,6.769274,West
+Wyoming,10,4.3091836,West
+Wyoming,11,2.9813423,West

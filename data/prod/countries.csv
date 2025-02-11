@@ -1,0 +1,2065 @@
+country_code,month,RH,continent,country,iso_a3
+AF,0,3.5507586,Asia (South),Afghanistan,AFG
+AF,1,4.238162,Asia (South),Afghanistan,AFG
+AF,2,5.2846055,Asia (South),Afghanistan,AFG
+AF,3,6.6372304,Asia (South),Afghanistan,AFG
+AF,4,6.696878,Asia (South),Afghanistan,AFG
+AF,5,5.716927,Asia (South),Afghanistan,AFG
+AF,6,6.540829,Asia (South),Afghanistan,AFG
+AF,7,7.194778,Asia (South),Afghanistan,AFG
+AF,8,5.450365,Asia (South),Afghanistan,AFG
+AF,9,5.08055,Asia (South),Afghanistan,AFG
+AF,10,5.0131345,Asia (South),Afghanistan,AFG
+AF,11,4.7645907,Asia (South),Afghanistan,AFG
+AL,0,5.0638523,Europe (South),Albania,ALB
+AL,1,7.487837,Europe (South),Albania,ALB
+AL,2,6.9939184,Europe (South),Albania,ALB
+AL,3,8.79432,Europe (South),Albania,ALB
+AL,4,11.845957,Europe (South),Albania,ALB
+AL,5,13.004957,Europe (South),Albania,ALB
+AL,6,15.173438,Europe (South),Albania,ALB
+AL,7,16.380777,Europe (South),Albania,ALB
+AL,8,14.935403,Europe (South),Albania,ALB
+AL,9,12.274536,Europe (South),Albania,ALB
+AL,10,9.567779,Europe (South),Albania,ALB
+AL,11,7.7099047,Europe (South),Albania,ALB
+DZ,0,5.4681516,Africa (North),Algeria,DZA
+DZ,1,5.343009,Africa (North),Algeria,DZA
+DZ,2,5.314193,Africa (North),Algeria,DZA
+DZ,3,5.7161574,Africa (North),Algeria,DZA
+DZ,4,6.557053,Africa (North),Algeria,DZA
+DZ,5,7.992533,Africa (North),Algeria,DZA
+DZ,6,7.5213428,Africa (North),Algeria,DZA
+DZ,7,8.614941,Africa (North),Algeria,DZA
+DZ,8,10.689048,Africa (North),Algeria,DZA
+DZ,9,9.277241,Africa (North),Algeria,DZA
+DZ,10,8.672127,Africa (North),Algeria,DZA
+DZ,11,6.6785016,Africa (North),Algeria,DZA
+AO,0,21.062782,Africa (Central),Angola,AGO
+AO,1,20.576603,Africa (Central),Angola,AGO
+AO,2,20.165098,Africa (Central),Angola,AGO
+AO,3,20.790573,Africa (Central),Angola,AGO
+AO,4,15.245796,Africa (Central),Angola,AGO
+AO,5,11.032218,Africa (Central),Angola,AGO
+AO,6,9.090153,Africa (Central),Angola,AGO
+AO,7,8.596197,Africa (Central),Angola,AGO
+AO,8,10.880147,Africa (Central),Angola,AGO
+AO,9,13.999169,Africa (Central),Angola,AGO
+AO,10,17.414167,Africa (Central),Angola,AGO
+AO,11,21.01083,Africa (Central),Angola,AGO
+AR,0,14.299222,Americas (South),Argentina,ARG
+AR,1,15.031554,Americas (South),Argentina,ARG
+AR,2,14.867896,Americas (South),Argentina,ARG
+AR,3,14.135394,Americas (South),Argentina,ARG
+AR,4,10.475507,Americas (South),Argentina,ARG
+AR,5,7.907566,Americas (South),Argentina,ARG
+AR,6,7.691469,Americas (South),Argentina,ARG
+AR,7,7.653129,Americas (South),Argentina,ARG
+AR,8,8.194452,Americas (South),Argentina,ARG
+AR,9,9.119781,Americas (South),Argentina,ARG
+AR,10,11.076137,Americas (South),Argentina,ARG
+AR,11,11.791226,Americas (South),Argentina,ARG
+AM,0,3.9144986,Middle East,Armenia,ARM
+AM,1,3.7675366,Middle East,Armenia,ARM
+AM,2,4.633278,Middle East,Armenia,ARM
+AM,3,5.9050374,Middle East,Armenia,ARM
+AM,4,8.030441,Middle East,Armenia,ARM
+AM,5,9.410263,Middle East,Armenia,ARM
+AM,6,11.304432,Middle East,Armenia,ARM
+AM,7,12.981483,Middle East,Armenia,ARM
+AM,8,11.148669,Middle East,Armenia,ARM
+AM,9,8.36537,Middle East,Armenia,ARM
+AM,10,6.6227536,Middle East,Armenia,ARM
+AM,11,5.6917095,Middle East,Armenia,ARM
+AU,0,15.755719,Oceania,Australia,AUS
+AU,1,17.460926,Oceania,Australia,AUS
+AU,2,16.947346,Oceania,Australia,AUS
+AU,3,13.809742,Oceania,Australia,AUS
+AU,4,11.592042,Oceania,Australia,AUS
+AU,5,10.602093,Oceania,Australia,AUS
+AU,6,9.066357,Oceania,Australia,AUS
+AU,7,8.231822,Oceania,Australia,AUS
+AU,8,8.910885,Oceania,Australia,AUS
+AU,9,9.789696,Oceania,Australia,AUS
+AU,10,12.170182,Oceania,Australia,AUS
+AU,11,14.273542,Oceania,Australia,AUS
+AT,0,5.076426,Europe (West),Austria,AUT
+AT,1,5.518463,Europe (West),Austria,AUT
+AT,2,5.3942466,Europe (West),Austria,AUT
+AT,3,6.057122,Europe (West),Austria,AUT
+AT,4,8.856325,Europe (West),Austria,AUT
+AT,5,11.606521,Europe (West),Austria,AUT
+AT,6,13.583423,Europe (West),Austria,AUT
+AT,7,14.908868,Europe (West),Austria,AUT
+AT,8,13.263348,Europe (West),Austria,AUT
+AT,9,10.535282,Europe (West),Austria,AUT
+AT,10,8.001874,Europe (West),Austria,AUT
+AT,11,5.2492075,Europe (West),Austria,AUT
+AZ,0,6.237745,Middle East,Azerbaijan,AZE
+AZ,1,6.0668387,Middle East,Azerbaijan,AZE
+AZ,2,7.538801,Middle East,Azerbaijan,AZE
+AZ,3,8.036516,Middle East,Azerbaijan,AZE
+AZ,4,12.280574,Middle East,Azerbaijan,AZE
+AZ,5,15.309539,Middle East,Azerbaijan,AZE
+AZ,6,15.598482,Middle East,Azerbaijan,AZE
+AZ,7,16.006166,Middle East,Azerbaijan,AZE
+AZ,8,15.37874,Middle East,Azerbaijan,AZE
+AZ,9,13.290891,Middle East,Azerbaijan,AZE
+AZ,10,10.540183,Middle East,Azerbaijan,AZE
+AZ,11,8.417692,Middle East,Azerbaijan,AZE
+BS,0,22.495615,Americas (Caribbean Islands),Bahamas,BHS
+BS,1,20.620474,Americas (Caribbean Islands),Bahamas,BHS
+BS,2,20.355944,Americas (Caribbean Islands),Bahamas,BHS
+BS,3,22.333456,Americas (Caribbean Islands),Bahamas,BHS
+BS,4,24.645739,Americas (Caribbean Islands),Bahamas,BHS
+BS,5,27.197351,Americas (Caribbean Islands),Bahamas,BHS
+BS,6,29.596912,Americas (Caribbean Islands),Bahamas,BHS
+BS,7,29.703196,Americas (Caribbean Islands),Bahamas,BHS
+BS,8,30.083658,Americas (Caribbean Islands),Bahamas,BHS
+BS,9,29.016361,Americas (Caribbean Islands),Bahamas,BHS
+BS,10,23.450436,Americas (Caribbean Islands),Bahamas,BHS
+BS,11,22.102396,Americas (Caribbean Islands),Bahamas,BHS
+BD,0,16.938654,Asia (South),Bangladesh,BGD
+BD,1,14.639127,Asia (South),Bangladesh,BGD
+BD,2,17.791288,Asia (South),Bangladesh,BGD
+BD,3,23.063007,Asia (South),Bangladesh,BGD
+BD,4,28.797638,Asia (South),Bangladesh,BGD
+BD,5,31.920547,Asia (South),Bangladesh,BGD
+BD,6,32.648544,Asia (South),Bangladesh,BGD
+BD,7,31.847288,Asia (South),Bangladesh,BGD
+BD,8,32.030067,Asia (South),Bangladesh,BGD
+BD,9,31.56169,Asia (South),Bangladesh,BGD
+BD,10,25.325352,Asia (South),Bangladesh,BGD
+BD,11,19.273212,Asia (South),Bangladesh,BGD
+BY,0,5.554885,Europe (East),Belarus,BLR
+BY,1,4.4961553,Europe (East),Belarus,BLR
+BY,2,5.789307,Europe (East),Belarus,BLR
+BY,3,6.438501,Europe (East),Belarus,BLR
+BY,4,9.608106,Europe (East),Belarus,BLR
+BY,5,11.714597,Europe (East),Belarus,BLR
+BY,6,15.503863,Europe (East),Belarus,BLR
+BY,7,15.988606,Europe (East),Belarus,BLR
+BY,8,14.496913,Europe (East),Belarus,BLR
+BY,9,9.097671,Europe (East),Belarus,BLR
+BY,10,7.457301,Europe (East),Belarus,BLR
+BY,11,4.9228363,Europe (East),Belarus,BLR
+BE,0,7.870143,Europe (West),Belgium,BEL
+BE,1,7.9083524,Europe (West),Belgium,BEL
+BE,2,7.2441974,Europe (West),Belgium,BEL
+BE,3,8.102506,Europe (West),Belgium,BEL
+BE,4,9.170577,Europe (West),Belgium,BEL
+BE,5,13.041298,Europe (West),Belgium,BEL
+BE,6,14.200306,Europe (West),Belgium,BEL
+BE,7,16.463377,Europe (West),Belgium,BEL
+BE,8,12.507339,Europe (West),Belgium,BEL
+BE,9,12.694034,Europe (West),Belgium,BEL
+BE,10,11.808664,Europe (West),Belgium,BEL
+BE,11,8.058844,Europe (West),Belgium,BEL
+BZ,0,24.841915,Americas (Central),Belize,BLZ
+BZ,1,22.61931,Americas (Central),Belize,BLZ
+BZ,2,23.34669,Americas (Central),Belize,BLZ
+BZ,3,25.766207,Americas (Central),Belize,BLZ
+BZ,4,28.0096,Americas (Central),Belize,BLZ
+BZ,5,28.616474,Americas (Central),Belize,BLZ
+BZ,6,28.468044,Americas (Central),Belize,BLZ
+BZ,7,27.89031,Americas (Central),Belize,BLZ
+BZ,8,28.750946,Americas (Central),Belize,BLZ
+BZ,9,27.577072,Americas (Central),Belize,BLZ
+BZ,10,25.974623,Americas (Central),Belize,BLZ
+BZ,11,23.410387,Americas (Central),Belize,BLZ
+BJ,0,8.793213,Africa (West),Benin,BEN
+BJ,1,10.49758,Africa (West),Benin,BEN
+BJ,2,14.08025,Africa (West),Benin,BEN
+BJ,3,19.61001,Africa (West),Benin,BEN
+BJ,4,24.625147,Africa (West),Benin,BEN
+BJ,5,26.16542,Africa (West),Benin,BEN
+BJ,6,26.17174,Africa (West),Benin,BEN
+BJ,7,26.074305,Africa (West),Benin,BEN
+BJ,8,27.499449,Africa (West),Benin,BEN
+BJ,9,27.419363,Africa (West),Benin,BEN
+BJ,10,20.706161,Africa (West),Benin,BEN
+BJ,11,13.870513,Africa (West),Benin,BEN
+BT,0,6.254235,Asia (South),Bhutan,BTN
+BT,1,6.056344,Asia (South),Bhutan,BTN
+BT,2,7.673041,Asia (South),Bhutan,BTN
+BT,3,9.001465,Asia (South),Bhutan,BTN
+BT,4,11.209734,Asia (South),Bhutan,BTN
+BT,5,13.94081,Asia (South),Bhutan,BTN
+BT,6,16.01078,Asia (South),Bhutan,BTN
+BT,7,15.856258,Asia (South),Bhutan,BTN
+BT,8,15.525451,Asia (South),Bhutan,BTN
+BT,9,13.782132,Asia (South),Bhutan,BTN
+BT,10,9.524658,Asia (South),Bhutan,BTN
+BT,11,7.944244,Asia (South),Bhutan,BTN
+BO,0,21.822422,Americas (South),Bolivia,BOL
+BO,1,21.771017,Americas (South),Bolivia,BOL
+BO,2,21.332603,Americas (South),Bolivia,BOL
+BO,3,21.593138,Americas (South),Bolivia,BOL
+BO,4,17.892523,Americas (South),Bolivia,BOL
+BO,5,16.551743,Americas (South),Bolivia,BOL
+BO,6,15.033849,Americas (South),Bolivia,BOL
+BO,7,14.0801115,Americas (South),Bolivia,BOL
+BO,8,16.097244,Americas (South),Bolivia,BOL
+BO,9,19.143923,Americas (South),Bolivia,BOL
+BO,10,19.905075,Americas (South),Bolivia,BOL
+BO,11,20.97745,Americas (South),Bolivia,BOL
+BA,0,5.0301733,Europe (South),Bosnia and Herz.,BIH
+BA,1,7.0426135,Europe (South),Bosnia and Herz.,BIH
+BA,2,6.4462776,Europe (South),Bosnia and Herz.,BIH
+BA,3,6.9874105,Europe (South),Bosnia and Herz.,BIH
+BA,4,11.319375,Europe (South),Bosnia and Herz.,BIH
+BA,5,13.075862,Europe (South),Bosnia and Herz.,BIH
+BA,6,14.418398,Europe (South),Bosnia and Herz.,BIH
+BA,7,16.847658,Europe (South),Bosnia and Herz.,BIH
+BA,8,13.865974,Europe (South),Bosnia and Herz.,BIH
+BA,9,10.975505,Europe (South),Bosnia and Herz.,BIH
+BA,10,9.0890255,Europe (South),Bosnia and Herz.,BIH
+BA,11,6.3591056,Europe (South),Bosnia and Herz.,BIH
+BW,0,17.93864,Africa (South),Botswana,BWA
+BW,1,17.778072,Africa (South),Botswana,BWA
+BW,2,16.649014,Africa (South),Botswana,BWA
+BW,3,14.447607,Africa (South),Botswana,BWA
+BW,4,9.647688,Africa (South),Botswana,BWA
+BW,5,7.389574,Africa (South),Botswana,BWA
+BW,6,6.7629194,Africa (South),Botswana,BWA
+BW,7,5.9914155,Africa (South),Botswana,BWA
+BW,8,5.747233,Africa (South),Botswana,BWA
+BW,9,7.5109143,Africa (South),Botswana,BWA
+BW,10,8.709265,Africa (South),Botswana,BWA
+BW,11,13.183982,Africa (South),Botswana,BWA
+BR,0,26.006643,Americas (South),Brazil,BRA
+BR,1,25.804052,Americas (South),Brazil,BRA
+BR,2,25.73672,Americas (South),Brazil,BRA
+BR,3,25.653194,Americas (South),Brazil,BRA
+BR,4,23.55408,Americas (South),Brazil,BRA
+BR,5,23.159826,Americas (South),Brazil,BRA
+BR,6,20.444765,Americas (South),Brazil,BRA
+BR,7,19.218592,Americas (South),Brazil,BRA
+BR,8,20.906963,Americas (South),Brazil,BRA
+BR,9,23.280083,Americas (South),Brazil,BRA
+BR,10,24.607653,Americas (South),Brazil,BRA
+BR,11,25.381975,Americas (South),Brazil,BRA
+BN,0,29.384094,Asia (Southeast),Brunei,BRN
+BN,1,28.050692,Asia (Southeast),Brunei,BRN
+BN,2,28.804598,Asia (Southeast),Brunei,BRN
+BN,3,29.415508,Asia (Southeast),Brunei,BRN
+BN,4,30.646875,Asia (Southeast),Brunei,BRN
+BN,5,30.149614,Asia (Southeast),Brunei,BRN
+BN,6,29.668795,Asia (Southeast),Brunei,BRN
+BN,7,29.530323,Asia (Southeast),Brunei,BRN
+BN,8,29.342657,Asia (Southeast),Brunei,BRN
+BN,9,29.175987,Asia (Southeast),Brunei,BRN
+BN,10,29.002977,Asia (Southeast),Brunei,BRN
+BN,11,29.282509,Asia (Southeast),Brunei,BRN
+BG,0,4.8382897,Europe (East),Bulgaria,BGR
+BG,1,6.630371,Europe (East),Bulgaria,BGR
+BG,2,6.861764,Europe (East),Bulgaria,BGR
+BG,3,7.935,Europe (East),Bulgaria,BGR
+BG,4,11.824471,Europe (East),Bulgaria,BGR
+BG,5,12.821183,Europe (East),Bulgaria,BGR
+BG,6,16.003105,Europe (East),Bulgaria,BGR
+BG,7,17.79963,Europe (East),Bulgaria,BGR
+BG,8,12.513579,Europe (East),Bulgaria,BGR
+BG,9,10.95052,Europe (East),Bulgaria,BGR
+BG,10,8.900595,Europe (East),Bulgaria,BGR
+BG,11,6.593699,Europe (East),Bulgaria,BGR
+BF,0,5.4381237,Africa (West),Burkina Faso,BFA
+BF,1,4.5555573,Africa (West),Burkina Faso,BFA
+BF,2,6.8772726,Africa (West),Burkina Faso,BFA
+BF,3,11.566977,Africa (West),Burkina Faso,BFA
+BF,4,19.983444,Africa (West),Burkina Faso,BFA
+BF,5,23.495354,Africa (West),Burkina Faso,BFA
+BF,6,24.856483,Africa (West),Burkina Faso,BFA
+BF,7,26.268847,Africa (West),Burkina Faso,BFA
+BF,8,27.509787,Africa (West),Burkina Faso,BFA
+BF,9,26.637566,Africa (West),Burkina Faso,BFA
+BF,10,16.905403,Africa (West),Burkina Faso,BFA
+BF,11,9.397,Africa (West),Burkina Faso,BFA
+BI,0,18.401758,Africa (East),Burundi,BDI
+BI,1,17.504894,Africa (East),Burundi,BDI
+BI,2,17.92499,Africa (East),Burundi,BDI
+BI,3,19.314611,Africa (East),Burundi,BDI
+BI,4,18.915276,Africa (East),Burundi,BDI
+BI,5,14.910133,Africa (East),Burundi,BDI
+BI,6,12.4068985,Africa (East),Burundi,BDI
+BI,7,11.84892,Africa (East),Burundi,BDI
+BI,8,13.53366,Africa (East),Burundi,BDI
+BI,9,16.190674,Africa (East),Burundi,BDI
+BI,10,16.70399,Africa (East),Burundi,BDI
+BI,11,17.98298,Africa (East),Burundi,BDI
+KH,0,19.252958,Asia (Southeast),Cambodia,KHM
+KH,1,19.199404,Asia (Southeast),Cambodia,KHM
+KH,2,21.311378,Asia (Southeast),Cambodia,KHM
+KH,3,26.13334,Asia (Southeast),Cambodia,KHM
+KH,4,29.17012,Asia (Southeast),Cambodia,KHM
+KH,5,30.611523,Asia (Southeast),Cambodia,KHM
+KH,6,28.994892,Asia (Southeast),Cambodia,KHM
+KH,7,28.639627,Asia (Southeast),Cambodia,KHM
+KH,8,29.57083,Asia (Southeast),Cambodia,KHM
+KH,9,30.197893,Asia (Southeast),Cambodia,KHM
+KH,10,27.503717,Asia (Southeast),Cambodia,KHM
+KH,11,24.699465,Asia (Southeast),Cambodia,KHM
+CM,0,14.249554,Africa (Central),Cameroon,CMR
+CM,1,13.40703,Africa (Central),Cameroon,CMR
+CM,2,17.562778,Africa (Central),Cameroon,CMR
+CM,3,20.678827,Africa (Central),Cameroon,CMR
+CM,4,24.045012,Africa (Central),Cameroon,CMR
+CM,5,24.714487,Africa (Central),Cameroon,CMR
+CM,6,23.951141,Africa (Central),Cameroon,CMR
+CM,7,23.816538,Africa (Central),Cameroon,CMR
+CM,8,24.576311,Africa (Central),Cameroon,CMR
+CM,9,24.931025,Africa (Central),Cameroon,CMR
+CM,10,22.362274,Africa (Central),Cameroon,CMR
+CM,11,18.564714,Africa (Central),Cameroon,CMR
+CA,0,1.2571564,Americas (North),Canada,CAN
+CA,1,1.0817605,Americas (North),Canada,CAN
+CA,2,1.180854,Americas (North),Canada,CAN
+CA,3,2.1383371,Americas (North),Canada,CAN
+CA,4,3.8446107,Americas (North),Canada,CAN
+CA,5,6.676439,Americas (North),Canada,CAN
+CA,6,10.798259,Americas (North),Canada,CAN
+CA,7,11.141659,Americas (North),Canada,CAN
+CA,8,8.681534,Americas (North),Canada,CAN
+CA,9,6.001754,Americas (North),Canada,CAN
+CA,10,3.3676934,Americas (North),Canada,CAN
+CA,11,1.9061238,Americas (North),Canada,CAN
+CF,0,9.399187,Africa (Central),Central African Rep.,CAF
+CF,1,9.247093,Africa (Central),Central African Rep.,CAF
+CF,2,15.616854,Africa (Central),Central African Rep.,CAF
+CF,3,20.129946,Africa (Central),Central African Rep.,CAF
+CF,4,22.688065,Africa (Central),Central African Rep.,CAF
+CF,5,25.247646,Africa (Central),Central African Rep.,CAF
+CF,6,24.676613,Africa (Central),Central African Rep.,CAF
+CF,7,25.259836,Africa (Central),Central African Rep.,CAF
+CF,8,25.710745,Africa (Central),Central African Rep.,CAF
+CF,9,25.554323,Africa (Central),Central African Rep.,CAF
+CF,10,22.433838,Africa (Central),Central African Rep.,CAF
+CF,11,15.690539,Africa (Central),Central African Rep.,CAF
+TD,0,5.4683933,Africa (Central),Chad,TCD
+TD,1,4.6226287,Africa (Central),Chad,TCD
+TD,2,5.3585615,Africa (Central),Chad,TCD
+TD,3,5.8442416,Africa (Central),Chad,TCD
+TD,4,8.203322,Africa (Central),Chad,TCD
+TD,5,12.577169,Africa (Central),Chad,TCD
+TD,6,15.302114,Africa (Central),Chad,TCD
+TD,7,20.535366,Africa (Central),Chad,TCD
+TD,8,19.099855,Africa (Central),Chad,TCD
+TD,9,14.679259,Africa (Central),Chad,TCD
+TD,10,8.811723,Africa (Central),Chad,TCD
+TD,11,7.010811,Africa (Central),Chad,TCD
+CL,0,9.141098,Americas (South),Chile,CHL
+CL,1,10.168116,Americas (South),Chile,CHL
+CL,2,10.109221,Americas (South),Chile,CHL
+CL,3,8.262088,Americas (South),Chile,CHL
+CL,4,6.652689,Americas (South),Chile,CHL
+CL,5,5.8914566,Americas (South),Chile,CHL
+CL,6,5.0300517,Americas (South),Chile,CHL
+CL,7,5.212158,Americas (South),Chile,CHL
+CL,8,5.5607,Americas (South),Chile,CHL
+CL,9,5.9661145,Americas (South),Chile,CHL
+CL,10,7.0087185,Americas (South),Chile,CHL
+CL,11,7.7061434,Americas (South),Chile,CHL
+CN,0,3.0450008,Asia (East),China,CHN
+CN,1,3.188638,Asia (East),China,CHN
+CN,2,3.9746926,Asia (East),China,CHN
+CN,3,5.9671164,Asia (East),China,CHN
+CN,4,8.3114805,Asia (East),China,CHN
+CN,5,10.883656,Asia (East),China,CHN
+CN,6,15.068202,Asia (East),China,CHN
+CN,7,16.41777,Asia (East),China,CHN
+CN,8,13.664983,Asia (East),China,CHN
+CN,9,9.483542,Asia (East),China,CHN
+CN,10,5.959375,Asia (East),China,CHN
+CN,11,3.775273,Asia (East),China,CHN
+CO,0,23.64355,Americas (South),Colombia,COL
+CO,1,23.349709,Americas (South),Colombia,COL
+CO,2,23.9767,Americas (South),Colombia,COL
+CO,3,25.133368,Americas (South),Colombia,COL
+CO,4,25.033945,Americas (South),Colombia,COL
+CO,5,25.142149,Americas (South),Colombia,COL
+CO,6,23.843075,Americas (South),Colombia,COL
+CO,7,23.782467,Americas (South),Colombia,COL
+CO,8,24.243721,Americas (South),Colombia,COL
+CO,9,25.155483,Americas (South),Colombia,COL
+CO,10,25.46644,Americas (South),Colombia,COL
+CO,11,25.020845,Americas (South),Colombia,COL
+CG,0,25.318571,Africa (Central),Congo,COG
+CG,1,24.974798,Africa (Central),Congo,COG
+CG,2,26.784567,Africa (Central),Congo,COG
+CG,3,27.760466,Africa (Central),Congo,COG
+CG,4,27.458967,Africa (Central),Congo,COG
+CG,5,26.125315,Africa (Central),Congo,COG
+CG,6,23.944576,Africa (Central),Congo,COG
+CG,7,22.67524,Africa (Central),Congo,COG
+CG,8,24.245495,Africa (Central),Congo,COG
+CG,9,25.760206,Africa (Central),Congo,COG
+CG,10,26.69245,Africa (Central),Congo,COG
+CG,11,27.08981,Africa (Central),Congo,COG
+CR,0,21.506083,Americas (Central),Costa Rica,CRI
+CR,1,19.799517,Americas (Central),Costa Rica,CRI
+CR,2,20.89976,Americas (Central),Costa Rica,CRI
+CR,3,21.844246,Americas (Central),Costa Rica,CRI
+CR,4,24.158499,Americas (Central),Costa Rica,CRI
+CR,5,24.596312,Americas (Central),Costa Rica,CRI
+CR,6,24.004522,Americas (Central),Costa Rica,CRI
+CR,7,23.814674,Americas (Central),Costa Rica,CRI
+CR,8,23.671476,Americas (Central),Costa Rica,CRI
+CR,9,23.695898,Americas (Central),Costa Rica,CRI
+CR,10,23.393919,Americas (Central),Costa Rica,CRI
+CR,11,22.667204,Americas (Central),Costa Rica,CRI
+HR,0,5.9538617,Europe (South),Croatia,HRV
+HR,1,7.6635604,Europe (South),Croatia,HRV
+HR,2,7.2793922,Europe (South),Croatia,HRV
+HR,3,8.070744,Europe (South),Croatia,HRV
+HR,4,12.244637,Europe (South),Croatia,HRV
+HR,5,14.273674,Europe (South),Croatia,HRV
+HR,6,15.295584,Europe (South),Croatia,HRV
+HR,7,18.139862,Europe (South),Croatia,HRV
+HR,8,15.650775,Europe (South),Croatia,HRV
+HR,9,12.711801,Europe (South),Croatia,HRV
+HR,10,9.994343,Europe (South),Croatia,HRV
+HR,11,6.8064437,Europe (South),Croatia,HRV
+CU,0,22.872925,Americas (Caribbean Islands),Cuba,CUB
+CU,1,21.658207,Americas (Caribbean Islands),Cuba,CUB
+CU,2,21.509258,Americas (Caribbean Islands),Cuba,CUB
+CU,3,22.969175,Americas (Caribbean Islands),Cuba,CUB
+CU,4,25.297474,Americas (Caribbean Islands),Cuba,CUB
+CU,5,27.810318,Americas (Caribbean Islands),Cuba,CUB
+CU,6,28.94612,Americas (Caribbean Islands),Cuba,CUB
+CU,7,29.240896,Americas (Caribbean Islands),Cuba,CUB
+CU,8,29.280294,Americas (Caribbean Islands),Cuba,CUB
+CU,9,28.426245,Americas (Caribbean Islands),Cuba,CUB
+CU,10,24.802683,Americas (Caribbean Islands),Cuba,CUB
+CU,11,23.280123,Americas (Caribbean Islands),Cuba,CUB
+CY,0,9.421981,Middle East,Cyprus,CYP
+CY,1,8.707302,Middle East,Cyprus,CYP
+CY,2,8.997913,Middle East,Cyprus,CYP
+CY,3,10.933451,Middle East,Cyprus,CYP
+CY,4,12.485393,Middle East,Cyprus,CYP
+CY,5,13.546014,Middle East,Cyprus,CYP
+CY,6,16.196156,Middle East,Cyprus,CYP
+CY,7,19.281519,Middle East,Cyprus,CYP
+CY,8,18.606485,Middle East,Cyprus,CYP
+CY,9,15.164758,Middle East,Cyprus,CYP
+CY,10,12.669545,Middle East,Cyprus,CYP
+CY,11,11.290567,Middle East,Cyprus,CYP
+CZ,0,6.033309,Europe (East),Czechia,CZE
+CZ,1,5.7678566,Europe (East),Czechia,CZE
+CZ,2,6.4117904,Europe (East),Czechia,CZE
+CZ,3,6.5308957,Europe (East),Czechia,CZE
+CZ,4,9.64213,Europe (East),Czechia,CZE
+CZ,5,12.545929,Europe (East),Czechia,CZE
+CZ,6,14.38185,Europe (East),Czechia,CZE
+CZ,7,15.397399,Europe (East),Czechia,CZE
+CZ,8,14.051406,Europe (East),Czechia,CZE
+CZ,9,10.769962,Europe (East),Czechia,CZE
+CZ,10,8.956022,Europe (East),Czechia,CZE
+CZ,11,5.7229233,Europe (East),Czechia,CZE
+CI,0,15.155469,Africa (West),Côte d'Ivoire,CIV
+CI,1,17.967798,Africa (West),Côte d'Ivoire,CIV
+CI,2,21.292255,Africa (West),Côte d'Ivoire,CIV
+CI,3,25.4846,Africa (West),Côte d'Ivoire,CIV
+CI,4,26.948723,Africa (West),Côte d'Ivoire,CIV
+CI,5,26.498028,Africa (West),Côte d'Ivoire,CIV
+CI,6,25.533947,Africa (West),Côte d'Ivoire,CIV
+CI,7,24.791372,Africa (West),Côte d'Ivoire,CIV
+CI,8,25.529716,Africa (West),Côte d'Ivoire,CIV
+CI,9,26.786196,Africa (West),Côte d'Ivoire,CIV
+CI,10,26.445023,Africa (West),Côte d'Ivoire,CIV
+CI,11,23.491945,Africa (West),Côte d'Ivoire,CIV
+CD,0,23.143858,Africa (Central),Dem. Rep. Congo,COD
+CD,1,21.945702,Africa (Central),Dem. Rep. Congo,COD
+CD,2,23.79414,Africa (Central),Dem. Rep. Congo,COD
+CD,3,25.012455,Africa (Central),Dem. Rep. Congo,COD
+CD,4,24.40062,Africa (Central),Dem. Rep. Congo,COD
+CD,5,21.41308,Africa (Central),Dem. Rep. Congo,COD
+CD,6,19.20772,Africa (Central),Dem. Rep. Congo,COD
+CD,7,18.789389,Africa (Central),Dem. Rep. Congo,COD
+CD,8,21.704607,Africa (Central),Dem. Rep. Congo,COD
+CD,9,23.599138,Africa (Central),Dem. Rep. Congo,COD
+CD,10,24.436884,Africa (Central),Dem. Rep. Congo,COD
+CD,11,24.731781,Africa (Central),Dem. Rep. Congo,COD
+DK,0,7.9442396,Europe (North),Denmark,DNK
+DK,1,6.3866057,Europe (North),Denmark,DNK
+DK,2,6.7028866,Europe (North),Denmark,DNK
+DK,3,6.4557037,Europe (North),Denmark,DNK
+DK,4,8.343384,Europe (North),Denmark,DNK
+DK,5,12.238694,Europe (North),Denmark,DNK
+DK,6,13.803832,Europe (North),Denmark,DNK
+DK,7,14.916984,Europe (North),Denmark,DNK
+DK,8,13.6121,Europe (North),Denmark,DNK
+DK,9,11.873699,Europe (North),Denmark,DNK
+DK,10,10.775772,Europe (North),Denmark,DNK
+DK,11,7.2185073,Europe (North),Denmark,DNK
+DJ,0,13.686445,Africa (East),Djibouti,DJI
+DJ,1,15.174192,Africa (East),Djibouti,DJI
+DJ,2,14.302575,Africa (East),Djibouti,DJI
+DJ,3,16.764217,Africa (East),Djibouti,DJI
+DJ,4,20.307522,Africa (East),Djibouti,DJI
+DJ,5,16.812994,Africa (East),Djibouti,DJI
+DJ,6,14.864843,Africa (East),Djibouti,DJI
+DJ,7,20.743753,Africa (East),Djibouti,DJI
+DJ,8,17.30821,Africa (East),Djibouti,DJI
+DJ,9,19.93964,Africa (East),Djibouti,DJI
+DJ,10,14.858939,Africa (East),Djibouti,DJI
+DJ,11,16.227448,Africa (East),Djibouti,DJI
+DO,0,21.067436,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,1,20.715431,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,2,21.210445,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,3,21.861176,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,4,22.770752,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,5,24.519844,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,6,24.938908,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,7,25.745693,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,8,25.974735,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,9,25.71937,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,10,25.06536,Americas (Caribbean Islands),Dominican Rep.,DOM
+DO,11,22.504124,Americas (Caribbean Islands),Dominican Rep.,DOM
+EC,0,20.81851,Americas (South),Ecuador,ECU
+EC,1,20.96789,Americas (South),Ecuador,ECU
+EC,2,21.298561,Americas (South),Ecuador,ECU
+EC,3,21.107542,Americas (South),Ecuador,ECU
+EC,4,20.941872,Americas (South),Ecuador,ECU
+EC,5,20.537298,Americas (South),Ecuador,ECU
+EC,6,19.12292,Americas (South),Ecuador,ECU
+EC,7,18.292038,Americas (South),Ecuador,ECU
+EC,8,18.844328,Americas (South),Ecuador,ECU
+EC,9,19.805517,Americas (South),Ecuador,ECU
+EC,10,20.332695,Americas (South),Ecuador,ECU
+EC,11,20.71241,Americas (South),Ecuador,ECU
+EG,0,6.85341,Africa (North),Egypt,EGY
+EG,1,6.1447396,Africa (North),Egypt,EGY
+EG,2,6.1843233,Africa (North),Egypt,EGY
+EG,3,6.410799,Africa (North),Egypt,EGY
+EG,4,6.528814,Africa (North),Egypt,EGY
+EG,5,7.9007998,Africa (North),Egypt,EGY
+EG,6,10.223516,Africa (North),Egypt,EGY
+EG,7,10.875127,Africa (North),Egypt,EGY
+EG,8,11.367565,Africa (North),Egypt,EGY
+EG,9,11.201932,Africa (North),Egypt,EGY
+EG,10,10.547647,Africa (North),Egypt,EGY
+EG,11,9.241917,Africa (North),Egypt,EGY
+SV,0,20.506197,Americas (Central),El Salvador,SLV
+SV,1,19.425348,Americas (Central),El Salvador,SLV
+SV,2,20.185009,Americas (Central),El Salvador,SLV
+SV,3,23.309044,Americas (Central),El Salvador,SLV
+SV,4,25.749968,Americas (Central),El Salvador,SLV
+SV,5,25.899895,Americas (Central),El Salvador,SLV
+SV,6,24.911703,Americas (Central),El Salvador,SLV
+SV,7,24.987843,Americas (Central),El Salvador,SLV
+SV,8,25.218376,Americas (Central),El Salvador,SLV
+SV,9,25.082039,Americas (Central),El Salvador,SLV
+SV,10,24.186043,Americas (Central),El Salvador,SLV
+SV,11,20.482756,Americas (Central),El Salvador,SLV
+GQ,0,25.551622,Africa (Central),Eq. Guinea,GNQ
+GQ,1,25.868086,Africa (Central),Eq. Guinea,GNQ
+GQ,2,26.998917,Africa (Central),Eq. Guinea,GNQ
+GQ,3,27.570417,Africa (Central),Eq. Guinea,GNQ
+GQ,4,27.391806,Africa (Central),Eq. Guinea,GNQ
+GQ,5,26.160187,Africa (Central),Eq. Guinea,GNQ
+GQ,6,24.3388,Africa (Central),Eq. Guinea,GNQ
+GQ,7,22.056833,Africa (Central),Eq. Guinea,GNQ
+GQ,8,23.73917,Africa (Central),Eq. Guinea,GNQ
+GQ,9,25.175737,Africa (Central),Eq. Guinea,GNQ
+GQ,10,25.79311,Africa (Central),Eq. Guinea,GNQ
+GQ,11,26.976074,Africa (Central),Eq. Guinea,GNQ
+ER,0,12.560664,Africa (East),Eritrea,ERI
+ER,1,12.855219,Africa (East),Eritrea,ERI
+ER,2,12.371026,Africa (East),Eritrea,ERI
+ER,3,13.02731,Africa (East),Eritrea,ERI
+ER,4,12.874234,Africa (East),Eritrea,ERI
+ER,5,13.703981,Africa (East),Eritrea,ERI
+ER,6,16.350866,Africa (East),Eritrea,ERI
+ER,7,21.17703,Africa (East),Eritrea,ERI
+ER,8,20.19204,Africa (East),Eritrea,ERI
+ER,9,16.227991,Africa (East),Eritrea,ERI
+ER,10,13.222875,Africa (East),Eritrea,ERI
+ER,11,12.724496,Africa (East),Eritrea,ERI
+EE,0,5.9315696,Europe (North),Estonia,EST
+EE,1,4.6877303,Europe (North),Estonia,EST
+EE,2,5.415858,Europe (North),Estonia,EST
+EE,3,5.446348,Europe (North),Estonia,EST
+EE,4,7.157358,Europe (North),Estonia,EST
+EE,5,10.028027,Europe (North),Estonia,EST
+EE,6,14.74405,Europe (North),Estonia,EST
+EE,7,15.021574,Europe (North),Estonia,EST
+EE,8,14.031435,Europe (North),Estonia,EST
+EE,9,9.98869,Europe (North),Estonia,EST
+EE,10,7.6941643,Europe (North),Estonia,EST
+EE,11,4.715288,Europe (North),Estonia,EST
+ET,0,9.314896,Africa (East),Ethiopia,ETH
+ET,1,9.282567,Africa (East),Ethiopia,ETH
+ET,2,9.977072,Africa (East),Ethiopia,ETH
+ET,3,13.57076,Africa (East),Ethiopia,ETH
+ET,4,17.205479,Africa (East),Ethiopia,ETH
+ET,5,15.877967,Africa (East),Ethiopia,ETH
+ET,6,15.48612,Africa (East),Ethiopia,ETH
+ET,7,16.701962,Africa (East),Ethiopia,ETH
+ET,8,16.653454,Africa (East),Ethiopia,ETH
+ET,9,16.519348,Africa (East),Ethiopia,ETH
+ET,10,14.775222,Africa (East),Ethiopia,ETH
+ET,11,12.252933,Africa (East),Ethiopia,ETH
+FK,0,8.788649,Americas (South),Falkland Is.,FLK
+FK,1,9.212079,Americas (South),Falkland Is.,FLK
+FK,2,8.676652,Americas (South),Falkland Is.,FLK
+FK,3,9.393114,Americas (South),Falkland Is.,FLK
+FK,4,7.855014,Americas (South),Falkland Is.,FLK
+FK,5,6.1946244,Americas (South),Falkland Is.,FLK
+FK,6,6.0281277,Americas (South),Falkland Is.,FLK
+FK,7,6.640727,Americas (South),Falkland Is.,FLK
+FK,8,6.034993,Americas (South),Falkland Is.,FLK
+FK,9,6.4427824,Americas (South),Falkland Is.,FLK
+FK,10,7.325754,Americas (South),Falkland Is.,FLK
+FK,11,8.476587,Americas (South),Falkland Is.,FLK
+FJ,0,26.549377,Oceania,Fiji,FJI
+FJ,1,28.172626,Oceania,Fiji,FJI
+FJ,2,27.639511,Oceania,Fiji,FJI
+FJ,3,27.106482,Oceania,Fiji,FJI
+FJ,4,25.102198,Oceania,Fiji,FJI
+FJ,5,24.317116,Oceania,Fiji,FJI
+FJ,6,21.358389,Oceania,Fiji,FJI
+FJ,7,21.514479,Oceania,Fiji,FJI
+FJ,8,21.784698,Oceania,Fiji,FJI
+FJ,9,22.111477,Oceania,Fiji,FJI
+FJ,10,23.826872,Oceania,Fiji,FJI
+FJ,11,25.549282,Oceania,Fiji,FJI
+FI,0,4.6612186,Europe (North),Finland,FIN
+FI,1,2.8634875,Europe (North),Finland,FIN
+FI,2,4.0558662,Europe (North),Finland,FIN
+FI,3,4.046984,Europe (North),Finland,FIN
+FI,4,5.1069098,Europe (North),Finland,FIN
+FI,5,9.070195,Europe (North),Finland,FIN
+FI,6,12.160278,Europe (North),Finland,FIN
+FI,7,13.824952,Europe (North),Finland,FIN
+FI,8,11.4836645,Europe (North),Finland,FIN
+FI,9,8.581534,Europe (North),Finland,FIN
+FI,10,6.373142,Europe (North),Finland,FIN
+FI,11,4.0562177,Europe (North),Finland,FIN
+FR,0,9.909173,Europe (West),France,FRA
+FR,1,10.265978,Europe (West),France,FRA
+FR,2,9.689509,Europe (West),France,FRA
+FR,3,9.953818,Europe (West),France,FRA
+FR,4,11.720312,Europe (West),France,FRA
+FR,5,14.961106,Europe (West),France,FRA
+FR,6,16.583565,Europe (West),France,FRA
+FR,7,16.687094,Europe (West),France,FRA
+FR,8,13.900622,Europe (West),France,FRA
+FR,9,14.144505,Europe (West),France,FRA
+FR,10,13.010642,Europe (West),France,FRA
+FR,11,9.601973,Europe (West),France,FRA
+GA,0,26.248219,Africa (Central),Gabon,GAB
+GA,1,26.58648,Africa (Central),Gabon,GAB
+GA,2,27.407774,Africa (Central),Gabon,GAB
+GA,3,28.21248,Africa (Central),Gabon,GAB
+GA,4,27.877142,Africa (Central),Gabon,GAB
+GA,5,26.44147,Africa (Central),Gabon,GAB
+GA,6,23.526667,Africa (Central),Gabon,GAB
+GA,7,21.63635,Africa (Central),Gabon,GAB
+GA,8,23.119694,Africa (Central),Gabon,GAB
+GA,9,25.34063,Africa (Central),Gabon,GAB
+GA,10,26.859602,Africa (Central),Gabon,GAB
+GA,11,27.451027,Africa (Central),Gabon,GAB
+GM,0,8.17252,Africa (West),Gambia,GMB
+GM,1,6.4823184,Africa (West),Gambia,GMB
+GM,2,7.612165,Africa (West),Gambia,GMB
+GM,3,11.9804125,Africa (West),Gambia,GMB
+GM,4,14.337833,Africa (West),Gambia,GMB
+GM,5,21.264631,Africa (West),Gambia,GMB
+GM,6,26.741821,Africa (West),Gambia,GMB
+GM,7,28.779701,Africa (West),Gambia,GMB
+GM,8,29.554146,Africa (West),Gambia,GMB
+GM,9,30.548601,Africa (West),Gambia,GMB
+GM,10,23.749632,Africa (West),Gambia,GMB
+GM,11,14.270711,Africa (West),Gambia,GMB
+GE,0,5.010684,Middle East,Georgia,GEO
+GE,1,4.5908856,Middle East,Georgia,GEO
+GE,2,5.7166314,Middle East,Georgia,GEO
+GE,3,6.6014905,Middle East,Georgia,GEO
+GE,4,10.054511,Middle East,Georgia,GEO
+GE,5,13.451342,Middle East,Georgia,GEO
+GE,6,15.103407,Middle East,Georgia,GEO
+GE,7,16.176798,Middle East,Georgia,GEO
+GE,8,14.842226,Middle East,Georgia,GEO
+GE,9,11.469357,Middle East,Georgia,GEO
+GE,10,8.598172,Middle East,Georgia,GEO
+GE,11,6.4624176,Middle East,Georgia,GEO
+DE,0,7.2147064,Europe (West),Germany,DEU
+DE,1,6.6667376,Europe (West),Germany,DEU
+DE,2,6.804214,Europe (West),Germany,DEU
+DE,3,7.2338395,Europe (West),Germany,DEU
+DE,4,9.567756,Europe (West),Germany,DEU
+DE,5,12.81141,Europe (West),Germany,DEU
+DE,6,14.313899,Europe (West),Germany,DEU
+DE,7,15.554337,Europe (West),Germany,DEU
+DE,8,13.378713,Europe (West),Germany,DEU
+DE,9,11.704122,Europe (West),Germany,DEU
+DE,10,10.396143,Europe (West),Germany,DEU
+DE,11,6.9771876,Europe (West),Germany,DEU
+GH,0,13.238021,Africa (West),Ghana,GHA
+GH,1,16.231546,Africa (West),Ghana,GHA
+GH,2,20.015165,Africa (West),Ghana,GHA
+GH,3,24.88562,Africa (West),Ghana,GHA
+GH,4,27.100065,Africa (West),Ghana,GHA
+GH,5,27.058035,Africa (West),Ghana,GHA
+GH,6,26.294172,Africa (West),Ghana,GHA
+GH,7,25.623756,Africa (West),Ghana,GHA
+GH,8,26.606735,Africa (West),Ghana,GHA
+GH,9,28.095871,Africa (West),Ghana,GHA
+GH,10,26.86307,Africa (West),Ghana,GHA
+GH,11,21.154762,Africa (West),Ghana,GHA
+GR,0,5.979314,Europe (South),Greece,GRC
+GR,1,7.921502,Europe (South),Greece,GRC
+GR,2,7.840777,Europe (South),Greece,GRC
+GR,3,9.267825,Europe (South),Greece,GRC
+GR,4,11.468299,Europe (South),Greece,GRC
+GR,5,12.136413,Europe (South),Greece,GRC
+GR,6,14.939336,Europe (South),Greece,GRC
+GR,7,16.569721,Europe (South),Greece,GRC
+GR,8,13.910311,Europe (South),Greece,GRC
+GR,9,12.144203,Europe (South),Greece,GRC
+GR,10,10.538358,Europe (South),Greece,GRC
+GR,11,8.890205,Europe (South),Greece,GRC
+GL,0,0.50851387,Americas (North),Greenland,GRL
+GL,1,0.4281377,Americas (North),Greenland,GRL
+GL,2,0.48683086,Americas (North),Greenland,GRL
+GL,3,0.67200094,Americas (North),Greenland,GRL
+GL,4,1.3391821,Americas (North),Greenland,GRL
+GL,5,2.3765876,Americas (North),Greenland,GRL
+GL,6,3.6199856,Americas (North),Greenland,GRL
+GL,7,4.022039,Americas (North),Greenland,GRL
+GL,8,2.5038962,Americas (North),Greenland,GRL
+GL,9,1.3582716,Americas (North),Greenland,GRL
+GL,10,0.7958939,Americas (North),Greenland,GRL
+GL,11,0.65076923,Americas (North),Greenland,GRL
+GT,0,19.809797,Americas (Central),Guatemala,GTM
+GT,1,18.459915,Americas (Central),Guatemala,GTM
+GT,2,18.83483,Americas (Central),Guatemala,GTM
+GT,3,20.634771,Americas (Central),Guatemala,GTM
+GT,4,22.93587,Americas (Central),Guatemala,GTM
+GT,5,23.430857,Americas (Central),Guatemala,GTM
+GT,6,22.880789,Americas (Central),Guatemala,GTM
+GT,7,22.395561,Americas (Central),Guatemala,GTM
+GT,8,23.081503,Americas (Central),Guatemala,GTM
+GT,9,22.668425,Americas (Central),Guatemala,GTM
+GT,10,21.569923,Americas (Central),Guatemala,GTM
+GT,11,19.372913,Americas (Central),Guatemala,GTM
+GN,0,10.107454,Africa (West),Guinea,GIN
+GN,1,9.957707,Africa (West),Guinea,GIN
+GN,2,11.854959,Africa (West),Guinea,GIN
+GN,3,17.328142,Africa (West),Guinea,GIN
+GN,4,21.86777,Africa (West),Guinea,GIN
+GN,5,25.288126,Africa (West),Guinea,GIN
+GN,6,25.515089,Africa (West),Guinea,GIN
+GN,7,25.023165,Africa (West),Guinea,GIN
+GN,8,25.53888,Africa (West),Guinea,GIN
+GN,9,26.324867,Africa (West),Guinea,GIN
+GN,10,24.904634,Africa (West),Guinea,GIN
+GN,11,18.701284,Africa (West),Guinea,GIN
+GW,0,10.759138,Africa (West),Guinea-Bissau,GNB
+GW,1,9.254134,Africa (West),Guinea-Bissau,GNB
+GW,2,9.726643,Africa (West),Guinea-Bissau,GNB
+GW,3,15.34203,Africa (West),Guinea-Bissau,GNB
+GW,4,18.570454,Africa (West),Guinea-Bissau,GNB
+GW,5,24.600847,Africa (West),Guinea-Bissau,GNB
+GW,6,28.549093,Africa (West),Guinea-Bissau,GNB
+GW,7,28.970726,Africa (West),Guinea-Bissau,GNB
+GW,8,28.978714,Africa (West),Guinea-Bissau,GNB
+GW,9,29.742292,Africa (West),Guinea-Bissau,GNB
+GW,10,28.518856,Africa (West),Guinea-Bissau,GNB
+GW,11,19.451485,Africa (West),Guinea-Bissau,GNB
+GY,0,25.545372,Americas (South),Guyana,GUY
+GY,1,25.448595,Americas (South),Guyana,GUY
+GY,2,24.055902,Americas (South),Guyana,GUY
+GY,3,24.89913,Americas (South),Guyana,GUY
+GY,4,26.492247,Americas (South),Guyana,GUY
+GY,5,27.06196,Americas (South),Guyana,GUY
+GY,6,26.550806,Americas (South),Guyana,GUY
+GY,7,26.71167,Americas (South),Guyana,GUY
+GY,8,27.165768,Americas (South),Guyana,GUY
+GY,9,26.871399,Americas (South),Guyana,GUY
+GY,10,27.141514,Americas (South),Guyana,GUY
+GY,11,26.64608,Americas (South),Guyana,GUY
+HT,0,20.886995,Americas (Caribbean Islands),Haiti,HTI
+HT,1,20.921413,Americas (Caribbean Islands),Haiti,HTI
+HT,2,21.528275,Americas (Caribbean Islands),Haiti,HTI
+HT,3,22.125017,Americas (Caribbean Islands),Haiti,HTI
+HT,4,23.309475,Americas (Caribbean Islands),Haiti,HTI
+HT,5,24.47915,Americas (Caribbean Islands),Haiti,HTI
+HT,6,25.103441,Americas (Caribbean Islands),Haiti,HTI
+HT,7,25.711725,Americas (Caribbean Islands),Haiti,HTI
+HT,8,26.402365,Americas (Caribbean Islands),Haiti,HTI
+HT,9,25.699419,Americas (Caribbean Islands),Haiti,HTI
+HT,10,25.41592,Americas (Caribbean Islands),Haiti,HTI
+HT,11,22.824999,Americas (Caribbean Islands),Haiti,HTI
+HN,0,20.644947,Americas (Central),Honduras,HND
+HN,1,19.882948,Americas (Central),Honduras,HND
+HN,2,19.43958,Americas (Central),Honduras,HND
+HN,3,21.606695,Americas (Central),Honduras,HND
+HN,4,23.552385,Americas (Central),Honduras,HND
+HN,5,24.395092,Americas (Central),Honduras,HND
+HN,6,23.42119,Americas (Central),Honduras,HND
+HN,7,23.153734,Americas (Central),Honduras,HND
+HN,8,23.449703,Americas (Central),Honduras,HND
+HN,9,23.226738,Americas (Central),Honduras,HND
+HN,10,22.285719,Americas (Central),Honduras,HND
+HN,11,20.27229,Americas (Central),Honduras,HND
+HU,0,5.7052937,Europe (East),Hungary,HUN
+HU,1,6.525998,Europe (East),Hungary,HUN
+HU,2,7.206018,Europe (East),Hungary,HUN
+HU,3,7.558333,Europe (East),Hungary,HUN
+HU,4,11.889889,Europe (East),Hungary,HUN
+HU,5,13.385972,Europe (East),Hungary,HUN
+HU,6,15.127793,Europe (East),Hungary,HUN
+HU,7,17.708555,Europe (East),Hungary,HUN
+HU,8,15.670682,Europe (East),Hungary,HUN
+HU,9,12.183564,Europe (East),Hungary,HUN
+HU,10,9.541828,Europe (East),Hungary,HUN
+HU,11,6.1590967,Europe (East),Hungary,HUN
+IS,0,3.4405427,Europe (North),Iceland,ISL
+IS,1,3.3832123,Europe (North),Iceland,ISL
+IS,2,4.240108,Europe (North),Iceland,ISL
+IS,3,4.4741077,Europe (North),Iceland,ISL
+IS,4,4.8270087,Europe (North),Iceland,ISL
+IS,5,6.988178,Europe (North),Iceland,ISL
+IS,6,8.085411,Europe (North),Iceland,ISL
+IS,7,8.509504,Europe (North),Iceland,ISL
+IS,8,8.389728,Europe (North),Iceland,ISL
+IS,9,6.833151,Europe (North),Iceland,ISL
+IS,10,4.808898,Europe (North),Iceland,ISL
+IS,11,4.5033035,Europe (North),Iceland,ISL
+IN,0,13.491877,Asia (South),India,IND
+IN,1,11.340004,Asia (South),India,IND
+IN,2,12.276456,Asia (South),India,IND
+IN,3,12.835274,Asia (South),India,IND
+IN,4,14.639234,Asia (South),India,IND
+IN,5,20.8486,Asia (South),India,IND
+IN,6,26.11353,Asia (South),India,IND
+IN,7,27.005997,Asia (South),India,IND
+IN,8,26.945044,Asia (South),India,IND
+IN,9,24.564888,Asia (South),India,IND
+IN,10,18.063126,Asia (South),India,IND
+IN,11,14.771514,Asia (South),India,IND
+ID,0,27.552565,Asia (Southeast),Indonesia,IDN
+ID,1,27.087027,Asia (Southeast),Indonesia,IDN
+ID,2,27.644562,Asia (Southeast),Indonesia,IDN
+ID,3,28.013947,Asia (Southeast),Indonesia,IDN
+ID,4,28.178385,Asia (Southeast),Indonesia,IDN
+ID,5,27.806593,Asia (Southeast),Indonesia,IDN
+ID,6,26.534103,Asia (Southeast),Indonesia,IDN
+ID,7,25.791357,Asia (Southeast),Indonesia,IDN
+ID,8,26.003422,Asia (Southeast),Indonesia,IDN
+ID,9,26.489567,Asia (Southeast),Indonesia,IDN
+ID,10,27.197582,Asia (Southeast),Indonesia,IDN
+ID,11,27.798079,Asia (Southeast),Indonesia,IDN
+IR,0,5.2683077,Asia (South),Iran,IRN
+IR,1,5.4522223,Asia (South),Iran,IRN
+IR,2,6.1280546,Asia (South),Iran,IRN
+IR,3,6.6082616,Asia (South),Iran,IRN
+IR,4,7.6705656,Asia (South),Iran,IRN
+IR,5,6.595858,Asia (South),Iran,IRN
+IR,6,7.9961553,Asia (South),Iran,IRN
+IR,7,8.93369,Asia (South),Iran,IRN
+IR,8,7.2366714,Asia (South),Iran,IRN
+IR,9,7.190985,Asia (South),Iran,IRN
+IR,10,7.0830293,Asia (South),Iran,IRN
+IR,11,6.5176597,Asia (South),Iran,IRN
+IQ,0,8.827266,Middle East,Iraq,IRQ
+IQ,1,7.4133754,Middle East,Iraq,IRQ
+IQ,2,7.3054104,Middle East,Iraq,IRQ
+IQ,3,7.6973777,Middle East,Iraq,IRQ
+IQ,4,8.445931,Middle East,Iraq,IRQ
+IQ,5,7.348539,Middle East,Iraq,IRQ
+IQ,6,7.5821643,Middle East,Iraq,IRQ
+IQ,7,8.753623,Middle East,Iraq,IRQ
+IQ,8,9.028195,Middle East,Iraq,IRQ
+IQ,9,9.0195,Middle East,Iraq,IRQ
+IQ,10,10.24002,Middle East,Iraq,IRQ
+IQ,11,10.969895,Middle East,Iraq,IRQ
+IE,0,8.498118,Europe (West),Ireland,IRL
+IE,1,7.0621424,Europe (West),Ireland,IRL
+IE,2,7.682606,Europe (West),Ireland,IRL
+IE,3,8.3059225,Europe (West),Ireland,IRL
+IE,4,9.520105,Europe (West),Ireland,IRL
+IE,5,12.926644,Europe (West),Ireland,IRL
+IE,6,12.622081,Europe (West),Ireland,IRL
+IE,7,13.854061,Europe (West),Ireland,IRL
+IE,8,12.18738,Europe (West),Ireland,IRL
+IE,9,10.954016,Europe (West),Ireland,IRL
+IE,10,10.044743,Europe (West),Ireland,IRL
+IE,11,8.87549,Europe (West),Ireland,IRL
+IL,0,9.051135,Middle East,Israel,ISR
+IL,1,8.028745,Middle East,Israel,ISR
+IL,2,8.625529,Middle East,Israel,ISR
+IL,3,9.132071,Middle East,Israel,ISR
+IL,4,9.073983,Middle East,Israel,ISR
+IL,5,11.922193,Middle East,Israel,ISR
+IL,6,15.254048,Middle East,Israel,ISR
+IL,7,15.888467,Middle East,Israel,ISR
+IL,8,18.679562,Middle East,Israel,ISR
+IL,9,16.585438,Middle East,Israel,ISR
+IL,10,13.235085,Middle East,Israel,ISR
+IL,11,10.922844,Middle East,Israel,ISR
+IT,0,6.8291016,Europe (South),Italy,ITA
+IT,1,8.737252,Europe (South),Italy,ITA
+IT,2,8.009635,Europe (South),Italy,ITA
+IT,3,8.627093,Europe (South),Italy,ITA
+IT,4,11.528254,Europe (South),Italy,ITA
+IT,5,12.883407,Europe (South),Italy,ITA
+IT,6,15.823916,Europe (South),Italy,ITA
+IT,7,17.638483,Europe (South),Italy,ITA
+IT,8,15.516118,Europe (South),Italy,ITA
+IT,9,14.21222,Europe (South),Italy,ITA
+IT,10,11.541176,Europe (South),Italy,ITA
+IT,11,8.550158,Europe (South),Italy,ITA
+JM,0,23.654797,Americas (Caribbean Islands),Jamaica,JAM
+JM,1,22.69312,Americas (Caribbean Islands),Jamaica,JAM
+JM,2,22.839018,Americas (Caribbean Islands),Jamaica,JAM
+JM,3,24.079176,Americas (Caribbean Islands),Jamaica,JAM
+JM,4,25.582315,Americas (Caribbean Islands),Jamaica,JAM
+JM,5,26.673523,Americas (Caribbean Islands),Jamaica,JAM
+JM,6,26.344563,Americas (Caribbean Islands),Jamaica,JAM
+JM,7,27.48604,Americas (Caribbean Islands),Jamaica,JAM
+JM,8,27.88518,Americas (Caribbean Islands),Jamaica,JAM
+JM,9,27.533976,Americas (Caribbean Islands),Jamaica,JAM
+JM,10,26.751537,Americas (Caribbean Islands),Jamaica,JAM
+JM,11,24.35204,Americas (Caribbean Islands),Jamaica,JAM
+JP,0,4.5269184,Asia (East),Japan,JPN
+JP,1,4.918715,Asia (East),Japan,JPN
+JP,2,6.4640174,Asia (East),Japan,JPN
+JP,3,7.518436,Asia (East),Japan,JPN
+JP,4,11.778449,Asia (East),Japan,JPN
+JP,5,15.051788,Asia (East),Japan,JPN
+JP,6,21.116125,Asia (East),Japan,JPN
+JP,7,25.658285,Asia (East),Japan,JPN
+JP,8,21.433989,Asia (East),Japan,JPN
+JP,9,16.92797,Asia (East),Japan,JPN
+JP,10,10.109062,Asia (East),Japan,JPN
+JP,11,6.3454075,Asia (East),Japan,JPN
+JO,0,6.9400907,Middle East,Jordan,JOR
+JO,1,5.6052947,Middle East,Jordan,JOR
+JO,2,6.534135,Middle East,Jordan,JOR
+JO,3,5.9692755,Middle East,Jordan,JOR
+JO,4,5.8325086,Middle East,Jordan,JOR
+JO,5,7.3283544,Middle East,Jordan,JOR
+JO,6,8.785797,Middle East,Jordan,JOR
+JO,7,8.888233,Middle East,Jordan,JOR
+JO,8,11.065883,Middle East,Jordan,JOR
+JO,9,9.123367,Middle East,Jordan,JOR
+JO,10,9.426035,Middle East,Jordan,JOR
+JO,11,8.463759,Middle East,Jordan,JOR
+KZ,0,3.131547,Asia (Central),Kazakhstan,KAZ
+KZ,1,2.7658174,Asia (Central),Kazakhstan,KAZ
+KZ,2,4.381213,Asia (Central),Kazakhstan,KAZ
+KZ,3,5.2166295,Asia (Central),Kazakhstan,KAZ
+KZ,4,6.807591,Asia (Central),Kazakhstan,KAZ
+KZ,5,9.302881,Asia (Central),Kazakhstan,KAZ
+KZ,6,11.309392,Asia (Central),Kazakhstan,KAZ
+KZ,7,11.211698,Asia (Central),Kazakhstan,KAZ
+KZ,8,8.426609,Asia (Central),Kazakhstan,KAZ
+KZ,9,6.6074924,Asia (Central),Kazakhstan,KAZ
+KZ,10,5.607881,Asia (Central),Kazakhstan,KAZ
+KZ,11,3.5390606,Asia (Central),Kazakhstan,KAZ
+KE,0,15.672774,Africa (East),Kenya,KEN
+KE,1,15.447669,Africa (East),Kenya,KEN
+KE,2,15.949764,Africa (East),Kenya,KEN
+KE,3,19.098022,Africa (East),Kenya,KEN
+KE,4,21.038256,Africa (East),Kenya,KEN
+KE,5,17.104769,Africa (East),Kenya,KEN
+KE,6,15.754562,Africa (East),Kenya,KEN
+KE,7,15.755173,Africa (East),Kenya,KEN
+KE,8,15.944477,Africa (East),Kenya,KEN
+KE,9,16.156878,Africa (East),Kenya,KEN
+KE,10,19.115267,Africa (East),Kenya,KEN
+KE,11,19.308756,Africa (East),Kenya,KEN
+KW,0,9.148119,Middle East,Kuwait,KWT
+KW,1,7.492898,Middle East,Kuwait,KWT
+KW,2,7.5478587,Middle East,Kuwait,KWT
+KW,3,7.092518,Middle East,Kuwait,KWT
+KW,4,10.035816,Middle East,Kuwait,KWT
+KW,5,6.841271,Middle East,Kuwait,KWT
+KW,6,6.689327,Middle East,Kuwait,KWT
+KW,7,8.618505,Middle East,Kuwait,KWT
+KW,8,8.616117,Middle East,Kuwait,KWT
+KW,9,10.018106,Middle East,Kuwait,KWT
+KW,10,9.759645,Middle East,Kuwait,KWT
+KW,11,13.075902,Middle East,Kuwait,KWT
+KG,0,1.6736372,Asia (Central),Kyrgyzstan,KGZ
+KG,1,2.4531317,Asia (Central),Kyrgyzstan,KGZ
+KG,2,2.7295985,Asia (Central),Kyrgyzstan,KGZ
+KG,3,4.8833823,Asia (Central),Kyrgyzstan,KGZ
+KG,4,6.3803225,Asia (Central),Kyrgyzstan,KGZ
+KG,5,7.957064,Asia (Central),Kyrgyzstan,KGZ
+KG,6,9.229767,Asia (Central),Kyrgyzstan,KGZ
+KG,7,9.721614,Asia (Central),Kyrgyzstan,KGZ
+KG,8,7.7923245,Asia (Central),Kyrgyzstan,KGZ
+KG,9,6.201054,Asia (Central),Kyrgyzstan,KGZ
+KG,10,4.616599,Asia (Central),Kyrgyzstan,KGZ
+KG,11,2.4767864,Asia (Central),Kyrgyzstan,KGZ
+LA,0,15.6495,Asia (Southeast),Laos,LAO
+LA,1,16.817257,Asia (Southeast),Laos,LAO
+LA,2,18.168419,Asia (Southeast),Laos,LAO
+LA,3,21.243662,Asia (Southeast),Laos,LAO
+LA,4,25.550432,Asia (Southeast),Laos,LAO
+LA,5,27.747086,Asia (Southeast),Laos,LAO
+LA,6,26.78002,Asia (Southeast),Laos,LAO
+LA,7,27.283451,Asia (Southeast),Laos,LAO
+LA,8,27.123667,Asia (Southeast),Laos,LAO
+LA,9,26.232565,Asia (Southeast),Laos,LAO
+LA,10,21.804684,Asia (Southeast),Laos,LAO
+LA,11,19.037651,Asia (Southeast),Laos,LAO
+LV,0,6.0870876,Europe (North),Latvia,LVA
+LV,1,4.802927,Europe (North),Latvia,LVA
+LV,2,5.6634893,Europe (North),Latvia,LVA
+LV,3,6.0465503,Europe (North),Latvia,LVA
+LV,4,7.5439053,Europe (North),Latvia,LVA
+LV,5,10.626515,Europe (North),Latvia,LVA
+LV,6,14.96204,Europe (North),Latvia,LVA
+LV,7,14.767376,Europe (North),Latvia,LVA
+LV,8,14.233921,Europe (North),Latvia,LVA
+LV,9,9.389413,Europe (North),Latvia,LVA
+LV,10,8.093175,Europe (North),Latvia,LVA
+LV,11,4.9895325,Europe (North),Latvia,LVA
+LB,0,7.654396,Middle East,Lebanon,LBN
+LB,1,7.3767285,Middle East,Lebanon,LBN
+LB,2,8.124836,Middle East,Lebanon,LBN
+LB,3,9.396256,Middle East,Lebanon,LBN
+LB,4,10.402096,Middle East,Lebanon,LBN
+LB,5,11.235128,Middle East,Lebanon,LBN
+LB,6,13.5545025,Middle East,Lebanon,LBN
+LB,7,16.056316,Middle East,Lebanon,LBN
+LB,8,17.171083,Middle East,Lebanon,LBN
+LB,9,14.184643,Middle East,Lebanon,LBN
+LB,10,11.67914,Middle East,Lebanon,LBN
+LB,11,9.6018715,Middle East,Lebanon,LBN
+LS,0,12.324205,Africa (South),Lesotho,LSO
+LS,1,11.301585,Africa (South),Lesotho,LSO
+LS,2,11.577293,Africa (South),Lesotho,LSO
+LS,3,10.3922415,Africa (South),Lesotho,LSO
+LS,4,6.5638046,Africa (South),Lesotho,LSO
+LS,5,4.8055487,Africa (South),Lesotho,LSO
+LS,6,4.9699535,Africa (South),Lesotho,LSO
+LS,7,3.8109922,Africa (South),Lesotho,LSO
+LS,8,4.100426,Africa (South),Lesotho,LSO
+LS,9,6.4163437,Africa (South),Lesotho,LSO
+LS,10,6.84994,Africa (South),Lesotho,LSO
+LS,11,9.185618,Africa (South),Lesotho,LSO
+LR,0,23.513914,Africa (West),Liberia,LBR
+LR,1,25.07436,Africa (West),Liberia,LBR
+LR,2,25.822365,Africa (West),Liberia,LBR
+LR,3,28.151283,Africa (West),Liberia,LBR
+LR,4,28.735687,Africa (West),Liberia,LBR
+LR,5,27.829788,Africa (West),Liberia,LBR
+LR,6,26.138132,Africa (West),Liberia,LBR
+LR,7,25.05693,Africa (West),Liberia,LBR
+LR,8,26.436417,Africa (West),Liberia,LBR
+LR,9,27.873621,Africa (West),Liberia,LBR
+LR,10,27.65327,Africa (West),Liberia,LBR
+LR,11,27.75834,Africa (West),Liberia,LBR
+LY,0,6.7552485,Africa (North),Libya,LBY
+LY,1,5.94409,Africa (North),Libya,LBY
+LY,2,5.931095,Africa (North),Libya,LBY
+LY,3,6.391136,Africa (North),Libya,LBY
+LY,4,6.4641485,Africa (North),Libya,LBY
+LY,5,8.125992,Africa (North),Libya,LBY
+LY,6,9.09869,Africa (North),Libya,LBY
+LY,7,10.909324,Africa (North),Libya,LBY
+LY,8,10.334283,Africa (North),Libya,LBY
+LY,9,10.79305,Africa (North),Libya,LBY
+LY,10,9.023852,Africa (North),Libya,LBY
+LY,11,7.67737,Africa (North),Libya,LBY
+LT,0,6.1902657,Europe (North),Lithuania,LTU
+LT,1,4.942132,Europe (North),Lithuania,LTU
+LT,2,5.8508143,Europe (North),Lithuania,LTU
+LT,3,6.4124537,Europe (North),Lithuania,LTU
+LT,4,7.8203435,Europe (North),Lithuania,LTU
+LT,5,11.540124,Europe (North),Lithuania,LTU
+LT,6,15.344394,Europe (North),Lithuania,LTU
+LT,7,15.201179,Europe (North),Lithuania,LTU
+LT,8,14.484099,Europe (North),Lithuania,LTU
+LT,9,9.477106,Europe (North),Lithuania,LTU
+LT,10,8.512285,Europe (North),Lithuania,LTU
+LT,11,5.150753,Europe (North),Lithuania,LTU
+LU,0,7.486824,Europe (West),Luxembourg,LUX
+LU,1,7.4457593,Europe (West),Luxembourg,LUX
+LU,2,7.1276274,Europe (West),Luxembourg,LUX
+LU,3,7.6930285,Europe (West),Luxembourg,LUX
+LU,4,9.003854,Europe (West),Luxembourg,LUX
+LU,5,12.675558,Europe (West),Luxembourg,LUX
+LU,6,13.937104,Europe (West),Luxembourg,LUX
+LU,7,16.125198,Europe (West),Luxembourg,LUX
+LU,8,12.333802,Europe (West),Luxembourg,LUX
+LU,9,12.310595,Europe (West),Luxembourg,LUX
+LU,10,10.962016,Europe (West),Luxembourg,LUX
+LU,11,7.2336445,Europe (West),Luxembourg,LUX
+MK,0,4.332783,Europe (South),Macedonia,MKD
+MK,1,6.429909,Europe (South),Macedonia,MKD
+MK,2,5.976617,Europe (South),Macedonia,MKD
+MK,3,6.9454885,Europe (South),Macedonia,MKD
+MK,4,10.044921,Europe (South),Macedonia,MKD
+MK,5,10.297453,Europe (South),Macedonia,MKD
+MK,6,12.735927,Europe (South),Macedonia,MKD
+MK,7,14.844423,Europe (South),Macedonia,MKD
+MK,8,11.988039,Europe (South),Macedonia,MKD
+MK,9,9.950607,Europe (South),Macedonia,MKD
+MK,10,8.390519,Europe (South),Macedonia,MKD
+MK,11,6.60752,Europe (South),Macedonia,MKD
+MG,0,23.81855,Africa (East),Madagascar,MDG
+MG,1,24.135933,Africa (East),Madagascar,MDG
+MG,2,24.446014,Africa (East),Madagascar,MDG
+MG,3,22.276686,Africa (East),Madagascar,MDG
+MG,4,17.874224,Africa (East),Madagascar,MDG
+MG,5,15.490668,Africa (East),Madagascar,MDG
+MG,6,12.928361,Africa (East),Madagascar,MDG
+MG,7,13.216995,Africa (East),Madagascar,MDG
+MG,8,13.280122,Africa (East),Madagascar,MDG
+MG,9,15.055664,Africa (East),Madagascar,MDG
+MG,10,17.359943,Africa (East),Madagascar,MDG
+MG,11,20.882069,Africa (East),Madagascar,MDG
+MW,0,22.787964,Africa (West),Malawi,MWI
+MW,1,23.22672,Africa (West),Malawi,MWI
+MW,2,23.062145,Africa (West),Malawi,MWI
+MW,3,21.03826,Africa (West),Malawi,MWI
+MW,4,18.066423,Africa (West),Malawi,MWI
+MW,5,13.878253,Africa (West),Malawi,MWI
+MW,6,12.554962,Africa (West),Malawi,MWI
+MW,7,12.876359,Africa (West),Malawi,MWI
+MW,8,12.581032,Africa (West),Malawi,MWI
+MW,9,14.426065,Africa (West),Malawi,MWI
+MW,10,16.67912,Africa (West),Malawi,MWI
+MW,11,19.671871,Africa (West),Malawi,MWI
+MY,0,26.980768,Asia (Southeast),Malaysia,MYS
+MY,1,25.888111,Asia (Southeast),Malaysia,MYS
+MY,2,26.65556,Asia (Southeast),Malaysia,MYS
+MY,3,27.876333,Asia (Southeast),Malaysia,MYS
+MY,4,28.820988,Asia (Southeast),Malaysia,MYS
+MY,5,28.878601,Asia (Southeast),Malaysia,MYS
+MY,6,28.336664,Asia (Southeast),Malaysia,MYS
+MY,7,27.871992,Asia (Southeast),Malaysia,MYS
+MY,8,27.828606,Asia (Southeast),Malaysia,MYS
+MY,9,28.058594,Asia (Southeast),Malaysia,MYS
+MY,10,27.68722,Asia (Southeast),Malaysia,MYS
+MY,11,27.778902,Asia (Southeast),Malaysia,MYS
+ML,0,5.2149467,Africa (West),Mali,MLI
+ML,1,4.1908283,Africa (West),Mali,MLI
+ML,2,5.0489106,Africa (West),Mali,MLI
+ML,3,6.421889,Africa (West),Mali,MLI
+ML,4,9.449828,Africa (West),Mali,MLI
+ML,5,13.129097,Africa (West),Mali,MLI
+ML,6,17.76108,Africa (West),Mali,MLI
+ML,7,20.777636,Africa (West),Mali,MLI
+ML,8,20.975529,Africa (West),Mali,MLI
+ML,9,16.05175,Africa (West),Mali,MLI
+ML,10,10.6689005,Africa (West),Mali,MLI
+ML,11,7.1367483,Africa (West),Mali,MLI
+MR,0,5.3464494,Africa (West),Mauritania,MRT
+MR,1,5.582093,Africa (West),Mauritania,MRT
+MR,2,5.6598406,Africa (West),Mauritania,MRT
+MR,3,6.438103,Africa (West),Mauritania,MRT
+MR,4,7.6628523,Africa (West),Mauritania,MRT
+MR,5,9.878189,Africa (West),Mauritania,MRT
+MR,6,13.1628475,Africa (West),Mauritania,MRT
+MR,7,16.370173,Africa (West),Mauritania,MRT
+MR,8,18.333704,Africa (West),Mauritania,MRT
+MR,9,12.291084,Africa (West),Mauritania,MRT
+MR,10,8.579772,Africa (West),Mauritania,MRT
+MR,11,7.1132298,Africa (West),Mauritania,MRT
+MX,0,11.321546,Americas (North),Mexico,MEX
+MX,1,10.526999,Americas (North),Mexico,MEX
+MX,2,11.240126,Americas (North),Mexico,MEX
+MX,3,12.226462,Americas (North),Mexico,MEX
+MX,4,13.678734,Americas (North),Mexico,MEX
+MX,5,17.331665,Americas (North),Mexico,MEX
+MX,6,19.383911,Americas (North),Mexico,MEX
+MX,7,20.257421,Americas (North),Mexico,MEX
+MX,8,20.508207,Americas (North),Mexico,MEX
+MX,9,18.140734,Americas (North),Mexico,MEX
+MX,10,14.120889,Americas (North),Mexico,MEX
+MX,11,12.151824,Americas (North),Mexico,MEX
+MD,0,5.0858564,Europe (East),Moldova,MDA
+MD,1,5.531759,Europe (East),Moldova,MDA
+MD,2,6.457809,Europe (East),Moldova,MDA
+MD,3,8.024194,Europe (East),Moldova,MDA
+MD,4,12.086294,Europe (East),Moldova,MDA
+MD,5,14.199527,Europe (East),Moldova,MDA
+MD,6,15.918451,Europe (East),Moldova,MDA
+MD,7,15.348828,Europe (East),Moldova,MDA
+MD,8,12.669424,Europe (East),Moldova,MDA
+MD,9,10.415043,Europe (East),Moldova,MDA
+MD,10,7.778889,Europe (East),Moldova,MDA
+MD,11,6.07397,Europe (East),Moldova,MDA
+MN,0,1.0893302,Asia (East),Mongolia,MNG
+MN,1,0.84870636,Asia (East),Mongolia,MNG
+MN,2,1.7923212,Asia (East),Mongolia,MNG
+MN,3,2.7076032,Asia (East),Mongolia,MNG
+MN,4,3.5364654,Asia (East),Mongolia,MNG
+MN,5,4.7971244,Asia (East),Mongolia,MNG
+MN,6,9.914341,Asia (East),Mongolia,MNG
+MN,7,10.886665,Asia (East),Mongolia,MNG
+MN,8,8.248714,Asia (East),Mongolia,MNG
+MN,9,4.6389,Asia (East),Mongolia,MNG
+MN,10,2.8612347,Asia (East),Mongolia,MNG
+MN,11,1.4493234,Asia (East),Mongolia,MNG
+ME,0,4.329987,Europe (South),Montenegro,MNE
+ME,1,6.963137,Europe (South),Montenegro,MNE
+ME,2,6.264647,Europe (South),Montenegro,MNE
+ME,3,7.124443,Europe (South),Montenegro,MNE
+ME,4,10.679993,Europe (South),Montenegro,MNE
+ME,5,11.88371,Europe (South),Montenegro,MNE
+ME,6,14.4099,Europe (South),Montenegro,MNE
+ME,7,15.2416725,Europe (South),Montenegro,MNE
+ME,8,12.349121,Europe (South),Montenegro,MNE
+ME,9,10.224799,Europe (South),Montenegro,MNE
+ME,10,8.633145,Europe (South),Montenegro,MNE
+ME,11,6.3043766,Europe (South),Montenegro,MNE
+MA,0,5.85313,Africa (North),Morocco,MAR
+MA,1,7.289573,Africa (North),Morocco,MAR
+MA,2,7.780106,Africa (North),Morocco,MAR
+MA,3,8.326487,Africa (North),Morocco,MAR
+MA,4,9.100562,Africa (North),Morocco,MAR
+MA,5,10.754779,Africa (North),Morocco,MAR
+MA,6,10.833182,Africa (North),Morocco,MAR
+MA,7,12.414314,Africa (North),Morocco,MAR
+MA,8,13.818513,Africa (North),Morocco,MAR
+MA,9,12.206006,Africa (North),Morocco,MAR
+MA,10,10.365592,Africa (North),Morocco,MAR
+MA,11,8.852897,Africa (North),Morocco,MAR
+MZ,0,24.885225,Africa (East),Mozambique,MOZ
+MZ,1,25.22841,Africa (East),Mozambique,MOZ
+MZ,2,24.477411,Africa (East),Mozambique,MOZ
+MZ,3,21.42565,Africa (East),Mozambique,MOZ
+MZ,4,18.680593,Africa (East),Mozambique,MOZ
+MZ,5,14.901529,Africa (East),Mozambique,MOZ
+MZ,6,13.588469,Africa (East),Mozambique,MOZ
+MZ,7,13.320891,Africa (East),Mozambique,MOZ
+MZ,8,13.8182955,Africa (East),Mozambique,MOZ
+MZ,9,15.490331,Africa (East),Mozambique,MOZ
+MZ,10,17.487587,Africa (East),Mozambique,MOZ
+MZ,11,20.033455,Africa (East),Mozambique,MOZ
+MM,0,17.510592,Asia (Southeast),Myanmar,MMR
+MM,1,15.340683,Asia (Southeast),Myanmar,MMR
+MM,2,15.214505,Asia (Southeast),Myanmar,MMR
+MM,3,17.965,Asia (Southeast),Myanmar,MMR
+MM,4,23.010763,Asia (Southeast),Myanmar,MMR
+MM,5,27.014725,Asia (Southeast),Myanmar,MMR
+MM,6,27.225105,Asia (Southeast),Myanmar,MMR
+MM,7,27.416372,Asia (Southeast),Myanmar,MMR
+MM,8,27.307856,Asia (Southeast),Myanmar,MMR
+MM,9,27.567408,Asia (Southeast),Myanmar,MMR
+MM,10,24.040169,Asia (Southeast),Myanmar,MMR
+MM,11,19.76951,Asia (Southeast),Myanmar,MMR
+,0,13.999882,Africa (South),Namibia,NAM
+,1,13.583758,Africa (South),Namibia,NAM
+,2,13.768996,Africa (South),Namibia,NAM
+,3,13.413486,Africa (South),Namibia,NAM
+,4,8.240524,Africa (South),Namibia,NAM
+,5,6.6368117,Africa (South),Namibia,NAM
+,6,5.914794,Africa (South),Namibia,NAM
+,7,5.3139844,Africa (South),Namibia,NAM
+,8,4.74013,Africa (South),Namibia,NAM
+,9,5.453128,Africa (South),Namibia,NAM
+,10,7.5830894,Africa (South),Namibia,NAM
+,11,10.204228,Africa (South),Namibia,NAM
+NP,0,8.18301,Asia (South),Nepal,NPL
+NP,1,7.9210033,Asia (South),Nepal,NPL
+NP,2,8.781569,Asia (South),Nepal,NPL
+NP,3,9.739011,Asia (South),Nepal,NPL
+NP,4,11.740884,Asia (South),Nepal,NPL
+NP,5,17.022566,Asia (South),Nepal,NPL
+NP,6,20.877392,Asia (South),Nepal,NPL
+NP,7,20.646708,Asia (South),Nepal,NPL
+NP,8,20.316172,Asia (South),Nepal,NPL
+NP,9,18.125618,Asia (South),Nepal,NPL
+NP,10,12.486714,Asia (South),Nepal,NPL
+NP,11,9.988179,Asia (South),Nepal,NPL
+NL,0,8.163481,Europe (West),Netherlands,NLD
+NL,1,7.441814,Europe (West),Netherlands,NLD
+NL,2,6.9741974,Europe (West),Netherlands,NLD
+NL,3,8.0912695,Europe (West),Netherlands,NLD
+NL,4,9.495711,Europe (West),Netherlands,NLD
+NL,5,12.861401,Europe (West),Netherlands,NLD
+NL,6,14.506381,Europe (West),Netherlands,NLD
+NL,7,16.67066,Europe (West),Netherlands,NLD
+NL,8,13.043991,Europe (West),Netherlands,NLD
+NL,9,12.836615,Europe (West),Netherlands,NLD
+NL,10,11.825856,Europe (West),Netherlands,NLD
+NL,11,8.299532,Europe (West),Netherlands,NLD
+NC,0,23.605938,Oceania,New Caledonia,NCL
+NC,1,24.930523,Oceania,New Caledonia,NCL
+NC,2,26.353443,Oceania,New Caledonia,NCL
+NC,3,24.717014,Oceania,New Caledonia,NCL
+NC,4,21.030115,Oceania,New Caledonia,NCL
+NC,5,18.431227,Oceania,New Caledonia,NCL
+NC,6,17.378284,Oceania,New Caledonia,NCL
+NC,7,15.938463,Oceania,New Caledonia,NCL
+NC,8,16.832027,Oceania,New Caledonia,NCL
+NC,9,18.357334,Oceania,New Caledonia,NCL
+NC,10,19.089405,Oceania,New Caledonia,NCL
+NC,11,22.899708,Oceania,New Caledonia,NCL
+NZ,0,13.449362,Oceania,New Zealand,NZL
+NZ,1,13.826667,Oceania,New Zealand,NZL
+NZ,2,12.626501,Oceania,New Zealand,NZL
+NZ,3,11.978867,Oceania,New Zealand,NZL
+NZ,4,8.753181,Oceania,New Zealand,NZL
+NZ,5,8.145976,Oceania,New Zealand,NZL
+NZ,6,7.40869,Oceania,New Zealand,NZL
+NZ,7,8.358748,Oceania,New Zealand,NZL
+NZ,8,8.109231,Oceania,New Zealand,NZL
+NZ,9,8.596864,Oceania,New Zealand,NZL
+NZ,10,9.517443,Oceania,New Zealand,NZL
+NZ,11,11.392321,Oceania,New Zealand,NZL
+NI,0,24.461052,Americas (Central),Nicaragua,NIC
+NI,1,23.311537,Americas (Central),Nicaragua,NIC
+NI,2,22.904507,Americas (Central),Nicaragua,NIC
+NI,3,24.71945,Americas (Central),Nicaragua,NIC
+NI,4,26.56838,Americas (Central),Nicaragua,NIC
+NI,5,27.370441,Americas (Central),Nicaragua,NIC
+NI,6,26.610785,Americas (Central),Nicaragua,NIC
+NI,7,26.615229,Americas (Central),Nicaragua,NIC
+NI,8,26.850422,Americas (Central),Nicaragua,NIC
+NI,9,26.601357,Americas (Central),Nicaragua,NIC
+NI,10,25.49497,Americas (Central),Nicaragua,NIC
+NI,11,23.744844,Americas (Central),Nicaragua,NIC
+NE,0,4.3907456,Africa (West),Niger,NER
+NE,1,3.67268,Africa (West),Niger,NER
+NE,2,4.429892,Africa (West),Niger,NER
+NE,3,4.6097126,Africa (West),Niger,NER
+NE,4,6.93539,Africa (West),Niger,NER
+NE,5,11.205318,Africa (West),Niger,NER
+NE,6,13.393552,Africa (West),Niger,NER
+NE,7,17.862894,Africa (West),Niger,NER
+NE,8,16.766813,Africa (West),Niger,NER
+NE,9,11.8025255,Africa (West),Niger,NER
+NE,10,6.5563354,Africa (West),Niger,NER
+NE,11,5.5158725,Africa (West),Niger,NER
+NG,0,9.377176,Africa (West),Nigeria,NGA
+NG,1,9.852113,Africa (West),Nigeria,NGA
+NG,2,14.111602,Africa (West),Nigeria,NGA
+NG,3,15.6127405,Africa (West),Nigeria,NGA
+NG,4,21.560263,Africa (West),Nigeria,NGA
+NG,5,25.170645,Africa (West),Nigeria,NGA
+NG,6,25.654829,Africa (West),Nigeria,NGA
+NG,7,26.014769,Africa (West),Nigeria,NGA
+NG,8,26.98838,Africa (West),Nigeria,NGA
+NG,9,26.157732,Africa (West),Nigeria,NGA
+NG,10,19.055569,Africa (West),Nigeria,NGA
+NG,11,13.766289,Africa (West),Nigeria,NGA
+KP,0,2.114465,Asia (East),North Korea,PRK
+KP,1,2.153564,Asia (East),North Korea,PRK
+KP,2,3.1455035,Asia (East),North Korea,PRK
+KP,3,5.5352077,Asia (East),North Korea,PRK
+KP,4,10.184572,Asia (East),North Korea,PRK
+KP,5,13.171826,Asia (East),North Korea,PRK
+KP,6,19.101955,Asia (East),North Korea,PRK
+KP,7,24.808933,Asia (East),North Korea,PRK
+KP,8,17.722569,Asia (East),North Korea,PRK
+KP,9,12.326583,Asia (East),North Korea,PRK
+KP,10,6.0765233,Asia (East),North Korea,PRK
+KP,11,2.4263356,Asia (East),North Korea,PRK
+NO,0,3.8234365,Europe (North),Norway,NOR
+NO,1,2.5670745,Europe (North),Norway,NOR
+NO,2,3.2667737,Europe (North),Norway,NOR
+NO,3,3.3652518,Europe (North),Norway,NOR
+NO,4,4.4594893,Europe (North),Norway,NOR
+NO,5,7.376171,Europe (North),Norway,NOR
+NO,6,9.030035,Europe (North),Norway,NOR
+NO,7,9.924005,Europe (North),Norway,NOR
+NO,8,8.284588,Europe (North),Norway,NOR
+NO,9,7.009205,Europe (North),Norway,NOR
+NO,10,5.3725605,Europe (North),Norway,NOR
+NO,11,3.1807027,Europe (North),Norway,NOR
+OM,0,10.508134,Middle East,Oman,OMN
+OM,1,9.773774,Middle East,Oman,OMN
+OM,2,9.522447,Middle East,Oman,OMN
+OM,3,9.901541,Middle East,Oman,OMN
+OM,4,12.632985,Middle East,Oman,OMN
+OM,5,12.393109,Middle East,Oman,OMN
+OM,6,16.645493,Middle East,Oman,OMN
+OM,7,17.576801,Middle East,Oman,OMN
+OM,8,15.379262,Middle East,Oman,OMN
+OM,9,14.012605,Middle East,Oman,OMN
+OM,10,13.135998,Middle East,Oman,OMN
+OM,11,12.572141,Middle East,Oman,OMN
+PK,0,5.9086018,Asia (South),Pakistan,PAK
+PK,1,6.9294252,Asia (South),Pakistan,PAK
+PK,2,7.7736278,Asia (South),Pakistan,PAK
+PK,3,9.219774,Asia (South),Pakistan,PAK
+PK,4,7.7343946,Asia (South),Pakistan,PAK
+PK,5,11.330791,Asia (South),Pakistan,PAK
+PK,6,17.857857,Asia (South),Pakistan,PAK
+PK,7,20.781372,Asia (South),Pakistan,PAK
+PK,8,18.393759,Asia (South),Pakistan,PAK
+PK,9,13.988147,Asia (South),Pakistan,PAK
+PK,10,9.592042,Asia (South),Pakistan,PAK
+PK,11,7.220214,Asia (South),Pakistan,PAK
+PS,0,9.858843,Middle East,Palestine,PSE
+PS,1,8.740505,Middle East,Palestine,PSE
+PS,2,10.155891,Middle East,Palestine,PSE
+PS,3,9.778261,Middle East,Palestine,PSE
+PS,4,9.80188,Middle East,Palestine,PSE
+PS,5,12.57564,Middle East,Palestine,PSE
+PS,6,15.630925,Middle East,Palestine,PSE
+PS,7,16.471146,Middle East,Palestine,PSE
+PS,8,18.872595,Middle East,Palestine,PSE
+PS,9,16.337906,Middle East,Palestine,PSE
+PS,10,13.397373,Middle East,Palestine,PSE
+PS,11,12.086614,Middle East,Palestine,PSE
+PA,0,25.462938,Americas (Central),Panama,PAN
+PA,1,23.773907,Americas (Central),Panama,PAN
+PA,2,24.18154,Americas (Central),Panama,PAN
+PA,3,25.414923,Americas (Central),Panama,PAN
+PA,4,26.950113,Americas (Central),Panama,PAN
+PA,5,27.284819,Americas (Central),Panama,PAN
+PA,6,26.851875,Americas (Central),Panama,PAN
+PA,7,26.785131,Americas (Central),Panama,PAN
+PA,8,26.55843,Americas (Central),Panama,PAN
+PA,9,26.438164,Americas (Central),Panama,PAN
+PA,10,26.182175,Americas (Central),Panama,PAN
+PA,11,25.783031,Americas (Central),Panama,PAN
+PG,0,26.016613,Oceania,Papua New Guinea,PNG
+PG,1,25.486609,Oceania,Papua New Guinea,PNG
+PG,2,25.72463,Oceania,Papua New Guinea,PNG
+PG,3,25.687727,Oceania,Papua New Guinea,PNG
+PG,4,25.28223,Oceania,Papua New Guinea,PNG
+PG,5,24.959505,Oceania,Papua New Guinea,PNG
+PG,6,23.437637,Oceania,Papua New Guinea,PNG
+PG,7,23.370829,Oceania,Papua New Guinea,PNG
+PG,8,23.82026,Oceania,Papua New Guinea,PNG
+PG,9,24.01657,Oceania,Papua New Guinea,PNG
+PG,10,25.11752,Oceania,Papua New Guinea,PNG
+PG,11,25.850792,Oceania,Papua New Guinea,PNG
+PY,0,27.294643,Americas (South),Paraguay,PRY
+PY,1,26.702238,Americas (South),Paraguay,PRY
+PY,2,24.837692,Americas (South),Paraguay,PRY
+PY,3,24.0244,Americas (South),Paraguay,PRY
+PY,4,18.616343,Americas (South),Paraguay,PRY
+PY,5,16.215364,Americas (South),Paraguay,PRY
+PY,6,14.972142,Americas (South),Paraguay,PRY
+PY,7,15.41309,Americas (South),Paraguay,PRY
+PY,8,16.28985,Americas (South),Paraguay,PRY
+PY,9,21.212585,Americas (South),Paraguay,PRY
+PY,10,23.172636,Americas (South),Paraguay,PRY
+PY,11,24.396608,Americas (South),Paraguay,PRY
+PE,0,19.763817,Americas (South),Peru,PER
+PE,1,20.123316,Americas (South),Peru,PER
+PE,2,20.064775,Americas (South),Peru,PER
+PE,3,19.746126,Americas (South),Peru,PER
+PE,4,18.456404,Americas (South),Peru,PER
+PE,5,18.11683,Americas (South),Peru,PER
+PE,6,16.457706,Americas (South),Peru,PER
+PE,7,16.358603,Americas (South),Peru,PER
+PE,8,17.37451,Americas (South),Peru,PER
+PE,9,18.703272,Americas (South),Peru,PER
+PE,10,19.06609,Americas (South),Peru,PER
+PE,11,19.533783,Americas (South),Peru,PER
+PH,0,24.885002,Asia (Southeast),Philippines,PHL
+PH,1,24.100542,Asia (Southeast),Philippines,PHL
+PH,2,24.832493,Asia (Southeast),Philippines,PHL
+PH,3,25.742832,Asia (Southeast),Philippines,PHL
+PH,4,27.550652,Asia (Southeast),Philippines,PHL
+PH,5,28.512466,Asia (Southeast),Philippines,PHL
+PH,6,27.84196,Asia (Southeast),Philippines,PHL
+PH,7,27.785093,Asia (Southeast),Philippines,PHL
+PH,8,27.574703,Asia (Southeast),Philippines,PHL
+PH,9,27.604261,Asia (Southeast),Philippines,PHL
+PH,10,26.976898,Asia (Southeast),Philippines,PHL
+PH,11,26.226295,Asia (Southeast),Philippines,PHL
+PL,0,6.151403,Europe (East),Poland,POL
+PL,1,5.638697,Europe (East),Poland,POL
+PL,2,6.3341827,Europe (East),Poland,POL
+PL,3,6.7858715,Europe (East),Poland,POL
+PL,4,9.879821,Europe (East),Poland,POL
+PL,5,13.137606,Europe (East),Poland,POL
+PL,6,15.352032,Europe (East),Poland,POL
+PL,7,16.195883,Europe (East),Poland,POL
+PL,8,14.598838,Europe (East),Poland,POL
+PL,9,10.740248,Europe (East),Poland,POL
+PL,10,9.028064,Europe (East),Poland,POL
+PL,11,5.5753913,Europe (East),Poland,POL
+PT,0,10.13305,Europe (South),Portugal,PRT
+PT,1,10.21872,Europe (South),Portugal,PRT
+PT,2,10.648746,Europe (South),Portugal,PRT
+PT,3,10.661722,Europe (South),Portugal,PRT
+PT,4,10.647731,Europe (South),Portugal,PRT
+PT,5,12.654201,Europe (South),Portugal,PRT
+PT,6,13.214915,Europe (South),Portugal,PRT
+PT,7,13.855419,Europe (South),Portugal,PRT
+PT,8,13.533311,Europe (South),Portugal,PRT
+PT,9,13.981929,Europe (South),Portugal,PRT
+PT,10,13.97944,Europe (South),Portugal,PRT
+PT,11,9.899277,Europe (South),Portugal,PRT
+PR,0,23.388338,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,1,22.50339,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,2,22.612688,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,3,23.050838,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,4,24.024637,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,5,25.616137,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,6,26.576643,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,7,27.388968,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,8,27.639853,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,9,28.137674,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,10,26.95071,Americas (Caribbean Islands),Puerto Rico,PRI
+PR,11,25.123114,Americas (Caribbean Islands),Puerto Rico,PRI
+QA,0,14.291101,Middle East,Qatar,QAT
+QA,1,11.210632,Middle East,Qatar,QAT
+QA,2,10.797358,Middle East,Qatar,QAT
+QA,3,10.885706,Middle East,Qatar,QAT
+QA,4,13.947533,Middle East,Qatar,QAT
+QA,5,13.649722,Middle East,Qatar,QAT
+QA,6,17.836203,Middle East,Qatar,QAT
+QA,7,18.019604,Middle East,Qatar,QAT
+QA,8,19.607767,Middle East,Qatar,QAT
+QA,9,16.917051,Middle East,Qatar,QAT
+QA,10,17.852306,Middle East,Qatar,QAT
+QA,11,17.336157,Middle East,Qatar,QAT
+RO,0,4.739607,Europe (East),Romania,ROU
+RO,1,5.83264,Europe (East),Romania,ROU
+RO,2,6.6104474,Europe (East),Romania,ROU
+RO,3,7.405802,Europe (East),Romania,ROU
+RO,4,11.94606,Europe (East),Romania,ROU
+RO,5,13.597645,Europe (East),Romania,ROU
+RO,6,16.408447,Europe (East),Romania,ROU
+RO,7,17.457474,Europe (East),Romania,ROU
+RO,8,13.519042,Europe (East),Romania,ROU
+RO,9,10.904121,Europe (East),Romania,ROU
+RO,10,8.258092,Europe (East),Romania,ROU
+RO,11,5.644659,Europe (East),Romania,ROU
+RU,0,1.499473,Europe (East),Russia,RUS
+RU,1,1.2589701,Europe (East),Russia,RUS
+RU,2,1.8735132,Europe (East),Russia,RUS
+RU,3,3.1035361,Europe (East),Russia,RUS
+RU,4,4.776234,Europe (East),Russia,RUS
+RU,5,8.23501,Europe (East),Russia,RUS
+RU,6,12.203724,Europe (East),Russia,RUS
+RU,7,13.007205,Europe (East),Russia,RUS
+RU,8,9.878848,Europe (East),Russia,RUS
+RU,9,5.7038097,Europe (East),Russia,RUS
+RU,10,3.1127455,Europe (East),Russia,RUS
+RU,11,1.8340845,Europe (East),Russia,RUS
+RW,0,16.89844,Africa (East),Rwanda,RWA
+RW,1,15.010159,Africa (East),Rwanda,RWA
+RW,2,16.548683,Africa (East),Rwanda,RWA
+RW,3,17.866268,Africa (East),Rwanda,RWA
+RW,4,18.335882,Africa (East),Rwanda,RWA
+RW,5,14.256622,Africa (East),Rwanda,RWA
+RW,6,11.539168,Africa (East),Rwanda,RWA
+RW,7,11.683366,Africa (East),Rwanda,RWA
+RW,8,13.815075,Africa (East),Rwanda,RWA
+RW,9,15.957094,Africa (East),Rwanda,RWA
+RW,10,16.00902,Africa (East),Rwanda,RWA
+RW,11,16.794506,Africa (East),Rwanda,RWA
+SS,0,10.273105,Africa (East),S. Sudan,SSD
+SS,1,8.761717,Africa (East),S. Sudan,SSD
+SS,2,11.38942,Africa (East),S. Sudan,SSD
+SS,3,15.179914,Africa (East),S. Sudan,SSD
+SS,4,20.696585,Africa (East),S. Sudan,SSD
+SS,5,22.654594,Africa (East),S. Sudan,SSD
+SS,6,23.982546,Africa (East),S. Sudan,SSD
+SS,7,24.839088,Africa (East),S. Sudan,SSD
+SS,8,25.49495,Africa (East),S. Sudan,SSD
+SS,9,24.608475,Africa (East),S. Sudan,SSD
+SS,10,20.036942,Africa (East),S. Sudan,SSD
+SS,11,14.9566345,Africa (East),S. Sudan,SSD
+SA,0,8.748696,Middle East,Saudi Arabia,SAU
+SA,1,7.5756545,Middle East,Saudi Arabia,SAU
+SA,2,7.060008,Middle East,Saudi Arabia,SAU
+SA,3,7.293044,Middle East,Saudi Arabia,SAU
+SA,4,8.607153,Middle East,Saudi Arabia,SAU
+SA,5,7.550609,Middle East,Saudi Arabia,SAU
+SA,6,7.611768,Middle East,Saudi Arabia,SAU
+SA,7,9.51769,Middle East,Saudi Arabia,SAU
+SA,8,8.576504,Middle East,Saudi Arabia,SAU
+SA,9,8.084775,Middle East,Saudi Arabia,SAU
+SA,10,9.088226,Middle East,Saudi Arabia,SAU
+SA,11,10.604168,Middle East,Saudi Arabia,SAU
+SN,0,6.9951468,Africa (West),Senegal,SEN
+SN,1,5.275592,Africa (West),Senegal,SEN
+SN,2,6.3529234,Africa (West),Senegal,SEN
+SN,3,10.03524,Africa (West),Senegal,SEN
+SN,4,12.363851,Africa (West),Senegal,SEN
+SN,5,18.663097,Africa (West),Senegal,SEN
+SN,6,24.753725,Africa (West),Senegal,SEN
+SN,7,26.963673,Africa (West),Senegal,SEN
+SN,8,28.32206,Africa (West),Senegal,SEN
+SN,9,27.998678,Africa (West),Senegal,SEN
+SN,10,19.089556,Africa (West),Senegal,SEN
+SN,11,11.261791,Africa (West),Senegal,SEN
+RS,0,4.99887,Europe (South),Serbia,SRB
+RS,1,6.564205,Europe (South),Serbia,SRB
+RS,2,6.756829,Europe (South),Serbia,SRB
+RS,3,7.477839,Europe (South),Serbia,SRB
+RS,4,12.298061,Europe (South),Serbia,SRB
+RS,5,13.451601,Europe (South),Serbia,SRB
+RS,6,15.042368,Europe (South),Serbia,SRB
+RS,7,17.572803,Europe (South),Serbia,SRB
+RS,8,14.223564,Europe (South),Serbia,SRB
+RS,9,11.02635,Europe (South),Serbia,SRB
+RS,10,9.043931,Europe (South),Serbia,SRB
+RS,11,6.0295563,Europe (South),Serbia,SRB
+SL,0,17.484196,Africa (West),Sierra Leone,SLE
+SL,1,18.698555,Africa (West),Sierra Leone,SLE
+SL,2,19.388226,Africa (West),Sierra Leone,SLE
+SL,3,24.531406,Africa (West),Sierra Leone,SLE
+SL,4,27.420534,Africa (West),Sierra Leone,SLE
+SL,5,27.742668,Africa (West),Sierra Leone,SLE
+SL,6,27.034678,Africa (West),Sierra Leone,SLE
+SL,7,26.350306,Africa (West),Sierra Leone,SLE
+SL,8,27.091442,Africa (West),Sierra Leone,SLE
+SL,9,27.606474,Africa (West),Sierra Leone,SLE
+SL,10,27.566072,Africa (West),Sierra Leone,SLE
+SL,11,27.160149,Africa (West),Sierra Leone,SLE
+SK,0,5.121073,Europe (East),Slovakia,SVK
+SK,1,5.426723,Europe (East),Slovakia,SVK
+SK,2,6.3197165,Europe (East),Slovakia,SVK
+SK,3,6.757827,Europe (East),Slovakia,SVK
+SK,4,10.182547,Europe (East),Slovakia,SVK
+SK,5,12.057881,Europe (East),Slovakia,SVK
+SK,6,14.486628,Europe (East),Slovakia,SVK
+SK,7,16.755587,Europe (East),Slovakia,SVK
+SK,8,15.208807,Europe (East),Slovakia,SVK
+SK,9,11.101659,Europe (East),Slovakia,SVK
+SK,10,8.462597,Europe (East),Slovakia,SVK
+SK,11,5.247382,Europe (East),Slovakia,SVK
+SI,0,5.733612,Europe (South),Slovenia,SVN
+SI,1,6.7889304,Europe (South),Slovenia,SVN
+SI,2,6.6335173,Europe (South),Slovenia,SVN
+SI,3,7.2129154,Europe (South),Slovenia,SVN
+SI,4,10.883177,Europe (South),Slovenia,SVN
+SI,5,13.625558,Europe (South),Slovenia,SVN
+SI,6,15.392015,Europe (South),Slovenia,SVN
+SI,7,18.182356,Europe (South),Slovenia,SVN
+SI,8,15.198466,Europe (South),Slovenia,SVN
+SI,9,12.032652,Europe (South),Slovenia,SVN
+SI,10,9.611318,Europe (South),Slovenia,SVN
+SI,11,5.9580345,Europe (South),Slovenia,SVN
+SB,0,28.616749,Oceania,Solomon Is.,SLB
+SB,1,28.818575,Oceania,Solomon Is.,SLB
+SB,2,28.64132,Oceania,Solomon Is.,SLB
+SB,3,28.741493,Oceania,Solomon Is.,SLB
+SB,4,28.364075,Oceania,Solomon Is.,SLB
+SB,5,28.198719,Oceania,Solomon Is.,SLB
+SB,6,27.161383,Oceania,Solomon Is.,SLB
+SB,7,27.14801,Oceania,Solomon Is.,SLB
+SB,8,27.313269,Oceania,Solomon Is.,SLB
+SB,9,27.55431,Oceania,Solomon Is.,SLB
+SB,10,27.585047,Oceania,Solomon Is.,SLB
+SB,11,28.184786,Oceania,Solomon Is.,SLB
+SO,0,14.729748,Africa (East),Somalia,SOM
+SO,1,14.311503,Africa (East),Somalia,SOM
+SO,2,14.754052,Africa (East),Somalia,SOM
+SO,3,19.002844,Africa (East),Somalia,SOM
+SO,4,24.36754,Africa (East),Somalia,SOM
+SO,5,19.850151,Africa (East),Somalia,SOM
+SO,6,17.467915,Africa (East),Somalia,SOM
+SO,7,17.967487,Africa (East),Somalia,SOM
+SO,8,17.014135,Africa (East),Somalia,SOM
+SO,9,18.945578,Africa (East),Somalia,SOM
+SO,10,21.011894,Africa (East),Somalia,SOM
+SO,11,18.613436,Africa (East),Somalia,SOM
+ZA,0,12.820896,Africa (South),South Africa,ZAF
+ZA,1,13.560659,Africa (South),South Africa,ZAF
+ZA,2,13.208337,Africa (South),South Africa,ZAF
+ZA,3,12.09768,Africa (South),South Africa,ZAF
+ZA,4,8.850065,Africa (South),South Africa,ZAF
+ZA,5,7.439139,Africa (South),South Africa,ZAF
+ZA,6,6.900025,Africa (South),South Africa,ZAF
+ZA,7,5.851884,Africa (South),South Africa,ZAF
+ZA,8,5.888194,Africa (South),South Africa,ZAF
+ZA,9,7.7587895,Africa (South),South Africa,ZAF
+ZA,10,9.118109,Africa (South),South Africa,ZAF
+ZA,11,10.354755,Africa (South),South Africa,ZAF
+KR,0,3.7491765,Asia (East),South Korea,KOR
+KR,1,4.402923,Asia (East),South Korea,KOR
+KR,2,5.264742,Asia (East),South Korea,KOR
+KR,3,7.7134314,Asia (East),South Korea,KOR
+KR,4,12.575399,Asia (East),South Korea,KOR
+KR,5,14.903583,Asia (East),South Korea,KOR
+KR,6,22.397512,Asia (East),South Korea,KOR
+KR,7,27.779629,Asia (East),South Korea,KOR
+KR,8,20.937939,Asia (East),South Korea,KOR
+KR,9,16.746944,Asia (East),South Korea,KOR
+KR,10,9.162116,Asia (East),South Korea,KOR
+KR,11,4.525716,Asia (East),South Korea,KOR
+ES,0,7.693892,Europe (South),Spain,ESP
+ES,1,8.535253,Europe (South),Spain,ESP
+ES,2,8.292261,Europe (South),Spain,ESP
+ES,3,8.282283,Europe (South),Spain,ESP
+ES,4,8.783358,Europe (South),Spain,ESP
+ES,5,11.183256,Europe (South),Spain,ESP
+ES,6,11.88729,Europe (South),Spain,ESP
+ES,7,12.117351,Europe (South),Spain,ESP
+ES,8,12.988037,Europe (South),Spain,ESP
+ES,9,12.014992,Europe (South),Spain,ESP
+ES,10,10.999536,Europe (South),Spain,ESP
+ES,11,7.629835,Europe (South),Spain,ESP
+LK,0,25.168692,Asia (South),Sri Lanka,LKA
+LK,1,23.522497,Asia (South),Sri Lanka,LKA
+LK,2,24.721502,Asia (South),Sri Lanka,LKA
+LK,3,25.502302,Asia (South),Sri Lanka,LKA
+LK,4,28.302805,Asia (South),Sri Lanka,LKA
+LK,5,27.613398,Asia (South),Sri Lanka,LKA
+LK,6,26.368444,Asia (South),Sri Lanka,LKA
+LK,7,25.24928,Asia (South),Sri Lanka,LKA
+LK,8,26.377663,Asia (South),Sri Lanka,LKA
+LK,9,26.538673,Asia (South),Sri Lanka,LKA
+LK,10,27.535053,Asia (South),Sri Lanka,LKA
+LK,11,26.037674,Asia (South),Sri Lanka,LKA
+SD,0,7.5357895,Africa (North),Sudan,SDN
+SD,1,6.2452636,Africa (North),Sudan,SDN
+SD,2,5.869124,Africa (North),Sudan,SDN
+SD,3,5.515247,Africa (North),Sudan,SDN
+SD,4,7.4732804,Africa (North),Sudan,SDN
+SD,5,11.090249,Africa (North),Sudan,SDN
+SD,6,13.930035,Africa (North),Sudan,SDN
+SD,7,19.101402,Africa (North),Sudan,SDN
+SD,8,16.39738,Africa (North),Sudan,SDN
+SD,9,13.085374,Africa (North),Sudan,SDN
+SD,10,10.422222,Africa (North),Sudan,SDN
+SD,11,8.630241,Africa (North),Sudan,SDN
+SR,0,26.306278,Americas (South),Suriname,SUR
+SR,1,26.349005,Americas (South),Suriname,SUR
+SR,2,24.887522,Americas (South),Suriname,SUR
+SR,3,25.922243,Americas (South),Suriname,SUR
+SR,4,27.405066,Americas (South),Suriname,SUR
+SR,5,27.796318,Americas (South),Suriname,SUR
+SR,6,27.121424,Americas (South),Suriname,SUR
+SR,7,27.23333,Americas (South),Suriname,SUR
+SR,8,26.760092,Americas (South),Suriname,SUR
+SR,9,26.492815,Americas (South),Suriname,SUR
+SR,10,26.29131,Americas (South),Suriname,SUR
+SR,11,26.631996,Americas (South),Suriname,SUR
+SE,0,5.112218,Europe (North),Sweden,SWE
+SE,1,3.4725478,Europe (North),Sweden,SWE
+SE,2,4.3773437,Europe (North),Sweden,SWE
+SE,3,4.190056,Europe (North),Sweden,SWE
+SE,4,5.430245,Europe (North),Sweden,SWE
+SE,5,8.910549,Europe (North),Sweden,SWE
+SE,6,10.883587,Europe (North),Sweden,SWE
+SE,7,12.320239,Europe (North),Sweden,SWE
+SE,8,10.67119,Europe (North),Sweden,SWE
+SE,9,8.637545,Europe (North),Sweden,SWE
+SE,10,7.2255883,Europe (North),Sweden,SWE
+SE,11,3.9781349,Europe (North),Sweden,SWE
+CH,0,4.7677355,Europe (West),Switzerland,CHE
+CH,1,5.3648796,Europe (West),Switzerland,CHE
+CH,2,4.9313583,Europe (West),Switzerland,CHE
+CH,3,5.8358808,Europe (West),Switzerland,CHE
+CH,4,7.7331343,Europe (West),Switzerland,CHE
+CH,5,10.442909,Europe (West),Switzerland,CHE
+CH,6,13.070688,Europe (West),Switzerland,CHE
+CH,7,13.976679,Europe (West),Switzerland,CHE
+CH,8,11.701846,Europe (West),Switzerland,CHE
+CH,9,10.03093,Europe (West),Switzerland,CHE
+CH,10,8.0739565,Europe (West),Switzerland,CHE
+CH,11,4.8384275,Europe (West),Switzerland,CHE
+SY,0,8.099367,Middle East,Syria,SYR
+SY,1,6.9753294,Middle East,Syria,SYR
+SY,2,7.1919765,Middle East,Syria,SYR
+SY,3,7.4900837,Middle East,Syria,SYR
+SY,4,7.941033,Middle East,Syria,SYR
+SY,5,8.262805,Middle East,Syria,SYR
+SY,6,8.791211,Middle East,Syria,SYR
+SY,7,10.801316,Middle East,Syria,SYR
+SY,8,10.689966,Middle East,Syria,SYR
+SY,9,10.286075,Middle East,Syria,SYR
+SY,10,10.689532,Middle East,Syria,SYR
+SY,11,9.522522,Middle East,Syria,SYR
+TW,0,13.143864,Asia (East),Taiwan,TWN
+TW,1,12.879497,Asia (East),Taiwan,TWN
+TW,2,15.861133,Asia (East),Taiwan,TWN
+TW,3,17.579975,Asia (East),Taiwan,TWN
+TW,4,20.705484,Asia (East),Taiwan,TWN
+TW,5,25.074951,Asia (East),Taiwan,TWN
+TW,6,26.335142,Asia (East),Taiwan,TWN
+TW,7,25.960028,Asia (East),Taiwan,TWN
+TW,8,24.854902,Asia (East),Taiwan,TWN
+TW,9,22.922747,Asia (East),Taiwan,TWN
+TW,10,19.626965,Asia (East),Taiwan,TWN
+TW,11,15.728795,Asia (East),Taiwan,TWN
+TJ,0,2.0128632,Asia (Central),Tajikistan,TJK
+TJ,1,2.5380564,Asia (Central),Tajikistan,TJK
+TJ,2,3.1964343,Asia (Central),Tajikistan,TJK
+TJ,3,4.797445,Asia (Central),Tajikistan,TJK
+TJ,4,5.9066353,Asia (Central),Tajikistan,TJK
+TJ,5,6.59544,Asia (Central),Tajikistan,TJK
+TJ,6,7.3116407,Asia (Central),Tajikistan,TJK
+TJ,7,7.992134,Asia (Central),Tajikistan,TJK
+TJ,8,5.904329,Asia (Central),Tajikistan,TJK
+TJ,9,5.0498056,Asia (Central),Tajikistan,TJK
+TJ,10,4.3534393,Asia (Central),Tajikistan,TJK
+TJ,11,2.9908903,Asia (Central),Tajikistan,TJK
+TZ,0,20.956398,Africa (East),Tanzania,TZA
+TZ,1,20.577372,Africa (East),Tanzania,TZA
+TZ,2,20.770401,Africa (East),Tanzania,TZA
+TZ,3,21.819834,Africa (East),Tanzania,TZA
+TZ,4,20.324528,Africa (East),Tanzania,TZA
+TZ,5,15.133207,Africa (East),Tanzania,TZA
+TZ,6,13.178664,Africa (East),Tanzania,TZA
+TZ,7,12.980684,Africa (East),Tanzania,TZA
+TZ,8,13.261249,Africa (East),Tanzania,TZA
+TZ,9,14.789849,Africa (East),Tanzania,TZA
+TZ,10,16.902912,Africa (East),Tanzania,TZA
+TZ,11,19.70022,Africa (East),Tanzania,TZA
+TH,0,18.372248,Asia (Southeast),Thailand,THA
+TH,1,19.415792,Asia (Southeast),Thailand,THA
+TH,2,20.58399,Asia (Southeast),Thailand,THA
+TH,3,22.839195,Asia (Southeast),Thailand,THA
+TH,4,26.929361,Asia (Southeast),Thailand,THA
+TH,5,28.836222,Asia (Southeast),Thailand,THA
+TH,6,27.479376,Asia (Southeast),Thailand,THA
+TH,7,27.624659,Asia (Southeast),Thailand,THA
+TH,8,28.290972,Asia (Southeast),Thailand,THA
+TH,9,28.59857,Asia (Southeast),Thailand,THA
+TH,10,25.10881,Asia (Southeast),Thailand,THA
+TH,11,22.37565,Asia (Southeast),Thailand,THA
+TL,0,27.478811,Asia (Southeast),Timor-Leste,TLS
+TL,1,26.821455,Asia (Southeast),Timor-Leste,TLS
+TL,2,26.966768,Asia (Southeast),Timor-Leste,TLS
+TL,3,26.981518,Asia (Southeast),Timor-Leste,TLS
+TL,4,25.366308,Asia (Southeast),Timor-Leste,TLS
+TL,5,24.711393,Asia (Southeast),Timor-Leste,TLS
+TL,6,22.18256,Asia (Southeast),Timor-Leste,TLS
+TL,7,21.479134,Asia (Southeast),Timor-Leste,TLS
+TL,8,21.811138,Asia (Southeast),Timor-Leste,TLS
+TL,9,23.012556,Asia (Southeast),Timor-Leste,TLS
+TL,10,23.98444,Asia (Southeast),Timor-Leste,TLS
+TL,11,26.627022,Asia (Southeast),Timor-Leste,TLS
+TG,0,10.748094,Africa (West),Togo,TGO
+TG,1,14.082804,Africa (West),Togo,TGO
+TG,2,18.63479,Africa (West),Togo,TGO
+TG,3,23.86524,Africa (West),Togo,TGO
+TG,4,26.756786,Africa (West),Togo,TGO
+TG,5,26.883831,Africa (West),Togo,TGO
+TG,6,26.374836,Africa (West),Togo,TGO
+TG,7,25.936636,Africa (West),Togo,TGO
+TG,8,27.110815,Africa (West),Togo,TGO
+TG,9,27.627277,Africa (West),Togo,TGO
+TG,10,25.080132,Africa (West),Togo,TGO
+TG,11,17.9078,Africa (West),Togo,TGO
+TT,0,25.9272,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,1,24.385368,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,2,24.353218,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,3,24.30931,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,4,26.459585,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,5,27.410286,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,6,28.077692,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,7,28.463795,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,8,29.287872,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,9,29.34726,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,10,29.118431,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TT,11,28.474007,Americas (Caribbean Islands),Trinidad and Tobago,TTO
+TN,0,7.5049214,Africa (North),Tunisia,TUN
+TN,1,7.3512087,Africa (North),Tunisia,TUN
+TN,2,7.430581,Africa (North),Tunisia,TUN
+TN,3,8.350112,Africa (North),Tunisia,TUN
+TN,4,10.490573,Africa (North),Tunisia,TUN
+TN,5,12.596099,Africa (North),Tunisia,TUN
+TN,6,12.406138,Africa (North),Tunisia,TUN
+TN,7,11.638687,Africa (North),Tunisia,TUN
+TN,8,15.559842,Africa (North),Tunisia,TUN
+TN,9,14.2065,Africa (North),Tunisia,TUN
+TN,10,12.454155,Africa (North),Tunisia,TUN
+TN,11,8.608542,Africa (North),Tunisia,TUN
+TR,0,5.4192553,Middle East,Turkey,TUR
+TR,1,5.2905145,Middle East,Turkey,TUR
+TR,2,5.564095,Middle East,Turkey,TUR
+TR,3,7.381865,Middle East,Turkey,TUR
+TR,4,9.133903,Middle East,Turkey,TUR
+TR,5,10.386186,Middle East,Turkey,TUR
+TR,6,10.602652,Middle East,Turkey,TUR
+TR,7,11.892307,Middle East,Turkey,TUR
+TR,8,10.026319,Middle East,Turkey,TUR
+TR,9,9.047695,Middle East,Turkey,TUR
+TR,10,7.5396104,Middle East,Turkey,TUR
+TR,11,6.881345,Middle East,Turkey,TUR
+TM,0,6.0312667,Asia (Central),Turkmenistan,TKM
+TM,1,6.1815734,Asia (Central),Turkmenistan,TKM
+TM,2,7.694841,Asia (Central),Turkmenistan,TKM
+TM,3,7.1011004,Asia (Central),Turkmenistan,TKM
+TM,4,9.392608,Asia (Central),Turkmenistan,TKM
+TM,5,9.491067,Asia (Central),Turkmenistan,TKM
+TM,6,10.25572,Asia (Central),Turkmenistan,TKM
+TM,7,9.690297,Asia (Central),Turkmenistan,TKM
+TM,8,7.8549523,Asia (Central),Turkmenistan,TKM
+TM,9,7.58683,Asia (Central),Turkmenistan,TKM
+TM,10,8.007864,Asia (Central),Turkmenistan,TKM
+TM,11,6.7204914,Asia (Central),Turkmenistan,TKM
+UG,0,16.586208,Africa (East),Uganda,UGA
+UG,1,14.7880125,Africa (East),Uganda,UGA
+UG,2,16.765997,Africa (East),Uganda,UGA
+UG,3,19.84625,Africa (East),Uganda,UGA
+UG,4,21.346434,Africa (East),Uganda,UGA
+UG,5,19.572536,Africa (East),Uganda,UGA
+UG,6,18.45394,Africa (East),Uganda,UGA
+UG,7,18.998098,Africa (East),Uganda,UGA
+UG,8,20.212679,Africa (East),Uganda,UGA
+UG,9,20.10166,Africa (East),Uganda,UGA
+UG,10,19.54239,Africa (East),Uganda,UGA
+UG,11,18.574026,Africa (East),Uganda,UGA
+UA,0,5.124174,Europe (East),Ukraine,UKR
+UA,1,5.0357533,Europe (East),Ukraine,UKR
+UA,2,6.002297,Europe (East),Ukraine,UKR
+UA,3,7.762304,Europe (East),Ukraine,UKR
+UA,4,11.548228,Europe (East),Ukraine,UKR
+UA,5,13.063273,Europe (East),Ukraine,UKR
+UA,6,16.183058,Europe (East),Ukraine,UKR
+UA,7,15.373225,Europe (East),Ukraine,UKR
+UA,8,13.072595,Europe (East),Ukraine,UKR
+UA,9,9.614768,Europe (East),Ukraine,UKR
+UA,10,7.294515,Europe (East),Ukraine,UKR
+UA,11,5.6813035,Europe (East),Ukraine,UKR
+AE,0,11.0569315,Middle East,United Arab Emirates,ARE
+AE,1,10.671474,Middle East,United Arab Emirates,ARE
+AE,2,9.6871,Middle East,United Arab Emirates,ARE
+AE,3,9.769795,Middle East,United Arab Emirates,ARE
+AE,4,11.63554,Middle East,United Arab Emirates,ARE
+AE,5,11.770324,Middle East,United Arab Emirates,ARE
+AE,6,13.629908,Middle East,United Arab Emirates,ARE
+AE,7,15.91148,Middle East,United Arab Emirates,ARE
+AE,8,13.77587,Middle East,United Arab Emirates,ARE
+AE,9,13.519911,Middle East,United Arab Emirates,ARE
+AE,10,13.779945,Middle East,United Arab Emirates,ARE
+AE,11,14.149951,Middle East,United Arab Emirates,ARE
+GB,0,8.011926,Europe (West),United Kingdom,GBR
+GB,1,6.6571374,Europe (West),United Kingdom,GBR
+GB,2,7.0961437,Europe (West),United Kingdom,GBR
+GB,3,7.374171,Europe (West),United Kingdom,GBR
+GB,4,8.638205,Europe (West),United Kingdom,GBR
+GB,5,11.9377985,Europe (West),United Kingdom,GBR
+GB,6,12.692092,Europe (West),United Kingdom,GBR
+GB,7,14.177102,Europe (West),United Kingdom,GBR
+GB,8,12.166909,Europe (West),United Kingdom,GBR
+GB,9,11.088536,Europe (West),United Kingdom,GBR
+GB,10,10.214962,Europe (West),United Kingdom,GBR
+GB,11,8.038075,Europe (West),United Kingdom,GBR
+US,0,3.7825177,Americas (North),United States of America,USA
+US,1,4.1014695,Americas (North),United States of America,USA
+US,2,4.6729345,Americas (North),United States of America,USA
+US,3,5.7121606,Americas (North),United States of America,USA
+US,4,7.947107,Americas (North),United States of America,USA
+US,5,11.742865,Americas (North),United States of America,USA
+US,6,15.219357,Americas (North),United States of America,USA
+US,7,15.677464,Americas (North),United States of America,USA
+US,8,14.279859,Americas (North),United States of America,USA
+US,9,10.2788315,Americas (North),United States of America,USA
+US,10,6.483684,Americas (North),United States of America,USA
+US,11,5.016265,Americas (North),United States of America,USA
+UY,0,20.82518,Americas (South),Uruguay,URY
+UY,1,21.876438,Americas (South),Uruguay,URY
+UY,2,19.484291,Americas (South),Uruguay,URY
+UY,3,18.432991,Americas (South),Uruguay,URY
+UY,4,12.881247,Americas (South),Uruguay,URY
+UY,5,10.715159,Americas (South),Uruguay,URY
+UY,6,11.211755,Americas (South),Uruguay,URY
+UY,7,12.580475,Americas (South),Uruguay,URY
+UY,8,12.17514,Americas (South),Uruguay,URY
+UY,9,15.295468,Americas (South),Uruguay,URY
+UY,10,15.985566,Americas (South),Uruguay,URY
+UY,11,15.575752,Americas (South),Uruguay,URY
+UZ,0,4.8256607,Asia (Central),Uzbekistan,UZB
+UZ,1,4.845344,Asia (Central),Uzbekistan,UZB
+UZ,2,6.53814,Asia (Central),Uzbekistan,UZB
+UZ,3,6.5447497,Asia (Central),Uzbekistan,UZB
+UZ,4,8.869678,Asia (Central),Uzbekistan,UZB
+UZ,5,8.976139,Asia (Central),Uzbekistan,UZB
+UZ,6,9.876359,Asia (Central),Uzbekistan,UZB
+UZ,7,10.075726,Asia (Central),Uzbekistan,UZB
+UZ,8,8.088042,Asia (Central),Uzbekistan,UZB
+UZ,9,6.801163,Asia (Central),Uzbekistan,UZB
+UZ,10,7.1046686,Asia (Central),Uzbekistan,UZB
+UZ,11,5.541338,Asia (Central),Uzbekistan,UZB
+VU,0,25.423462,Oceania,Vanuatu,VUT
+VU,1,26.981836,Oceania,Vanuatu,VUT
+VU,2,27.752628,Oceania,Vanuatu,VUT
+VU,3,27.770124,Oceania,Vanuatu,VUT
+VU,4,25.007473,Oceania,Vanuatu,VUT
+VU,5,23.482906,Oceania,Vanuatu,VUT
+VU,6,21.95049,Oceania,Vanuatu,VUT
+VU,7,22.324104,Oceania,Vanuatu,VUT
+VU,8,22.913954,Oceania,Vanuatu,VUT
+VU,9,23.587255,Oceania,Vanuatu,VUT
+VU,10,23.998386,Oceania,Vanuatu,VUT
+VU,11,25.854929,Oceania,Vanuatu,VUT
+VE,0,23.76215,Americas (South),Venezuela,VEN
+VE,1,22.939304,Americas (South),Venezuela,VEN
+VE,2,22.622902,Americas (South),Venezuela,VEN
+VE,3,24.193676,Americas (South),Venezuela,VEN
+VE,4,25.315508,Americas (South),Venezuela,VEN
+VE,5,26.302372,Americas (South),Venezuela,VEN
+VE,6,25.56452,Americas (South),Venezuela,VEN
+VE,7,25.820322,Americas (South),Venezuela,VEN
+VE,8,26.193674,Americas (South),Venezuela,VEN
+VE,9,26.739014,Americas (South),Venezuela,VEN
+VE,10,26.723202,Americas (South),Venezuela,VEN
+VE,11,25.519993,Americas (South),Venezuela,VEN
+VN,0,16.938084,Asia (Southeast),Vietnam,VNM
+VN,1,17.864944,Asia (Southeast),Vietnam,VNM
+VN,2,20.9346,Asia (Southeast),Vietnam,VNM
+VN,3,23.375978,Asia (Southeast),Vietnam,VNM
+VN,4,26.93573,Asia (Southeast),Vietnam,VNM
+VN,5,29.09812,Asia (Southeast),Vietnam,VNM
+VN,6,28.498774,Asia (Southeast),Vietnam,VNM
+VN,7,28.430079,Asia (Southeast),Vietnam,VNM
+VN,8,28.2973,Asia (Southeast),Vietnam,VNM
+VN,9,26.696594,Asia (Southeast),Vietnam,VNM
+VN,10,22.93612,Asia (Southeast),Vietnam,VNM
+VN,11,20.687735,Asia (Southeast),Vietnam,VNM
+EH,0,5.7648664,Africa (West),W. Sahara,ESH
+EH,1,7.563641,Africa (West),W. Sahara,ESH
+EH,2,7.3376207,Africa (West),W. Sahara,ESH
+EH,3,7.0286713,Africa (West),W. Sahara,ESH
+EH,4,9.117661,Africa (West),W. Sahara,ESH
+EH,5,10.246858,Africa (West),W. Sahara,ESH
+EH,6,9.677496,Africa (West),W. Sahara,ESH
+EH,7,12.339181,Africa (West),W. Sahara,ESH
+EH,8,13.432295,Africa (West),W. Sahara,ESH
+EH,9,12.586974,Africa (West),W. Sahara,ESH
+EH,10,9.600781,Africa (West),W. Sahara,ESH
+EH,11,8.886816,Africa (West),W. Sahara,ESH
+YE,0,9.031153,Middle East,Yemen,YEM
+YE,1,9.426283,Middle East,Yemen,YEM
+YE,2,8.90536,Middle East,Yemen,YEM
+YE,3,10.786574,Middle East,Yemen,YEM
+YE,4,13.449967,Middle East,Yemen,YEM
+YE,5,12.926846,Middle East,Yemen,YEM
+YE,6,12.147997,Middle East,Yemen,YEM
+YE,7,16.044752,Middle East,Yemen,YEM
+YE,8,14.225157,Middle East,Yemen,YEM
+YE,9,11.749817,Middle East,Yemen,YEM
+YE,10,9.309862,Middle East,Yemen,YEM
+YE,11,9.9481,Middle East,Yemen,YEM
+ZM,0,21.683258,Africa (East),Zambia,ZMB
+ZM,1,22.06349,Africa (East),Zambia,ZMB
+ZM,2,21.791096,Africa (East),Zambia,ZMB
+ZM,3,19.49053,Africa (East),Zambia,ZMB
+ZM,4,15.035303,Africa (East),Zambia,ZMB
+ZM,5,11.089202,Africa (East),Zambia,ZMB
+ZM,6,9.343445,Africa (East),Zambia,ZMB
+ZM,7,8.78329,Africa (East),Zambia,ZMB
+ZM,8,8.554365,Africa (East),Zambia,ZMB
+ZM,9,11.443171,Africa (East),Zambia,ZMB
+ZM,10,13.634849,Africa (East),Zambia,ZMB
+ZM,11,19.07066,Africa (East),Zambia,ZMB
+ZW,0,20.833954,Africa (East),Zimbabwe,ZWE
+ZW,1,20.333143,Africa (East),Zimbabwe,ZWE
+ZW,2,19.171047,Africa (East),Zimbabwe,ZWE
+ZW,3,16.050835,Africa (East),Zimbabwe,ZWE
+ZW,4,13.427475,Africa (East),Zimbabwe,ZWE
+ZW,5,9.913878,Africa (East),Zimbabwe,ZWE
+ZW,6,8.501717,Africa (East),Zimbabwe,ZWE
+ZW,7,8.58132,Africa (East),Zimbabwe,ZWE
+ZW,8,8.692878,Africa (East),Zimbabwe,ZWE
+ZW,9,10.839406,Africa (East),Zimbabwe,ZWE
+ZW,10,12.3338175,Africa (East),Zimbabwe,ZWE
+ZW,11,14.995628,Africa (East),Zimbabwe,ZWE
+SZ,0,20.769129,Africa (South),eSwatini,SWZ
+SZ,1,19.217783,Africa (South),eSwatini,SWZ
+SZ,2,18.514355,Africa (South),eSwatini,SWZ
+SZ,3,17.157814,Africa (South),eSwatini,SWZ
+SZ,4,13.5815115,Africa (South),eSwatini,SWZ
+SZ,5,10.625477,Africa (South),eSwatini,SWZ
+SZ,6,9.107575,Africa (South),eSwatini,SWZ
+SZ,7,8.293145,Africa (South),eSwatini,SWZ
+SZ,8,8.962588,Africa (South),eSwatini,SWZ
+SZ,9,13.273515,Africa (South),eSwatini,SWZ
+SZ,10,16.0259,Africa (South),eSwatini,SWZ
+SZ,11,17.965454,Africa (South),eSwatini,SWZ
